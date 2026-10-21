@@ -1,0 +1,602 @@
+{
+  "status": "passed",
+  "count": 108,
+  "exams": 22,
+  "method": "逐套查看 22 套原日文题页与选项，按题库已核答案和文章语境撰写中文短解；中文翻译页用于来源定位与辅助比对，不机械照抄原翻译。",
+  "scope": "文章语法（问题 7）全部 108 题。pages 为用户 PDF 中对应中文文章/解析页的 1-based 页码。",
+  "reviewedOriginalImages": true,
+  "checks": [
+    "108 个 qid 与主库文章语法题完全一致",
+    "qid 唯一",
+    "字段完整",
+    "日文原页资源存在",
+    "解析页真实存在且在 PDF 页数范围内",
+    "无 CID 占位乱码"
+  ],
+  "caveats": [
+    "2011-07 第 43 题原选项页把第 3 项序号误印为 4；按四选项位置及已核答案使用最后一项 たしかに／ことは間違いない。",
+    "2013-07 中文译文的第 41 题选项顺序与原日文不一致；以日文第 2 项 気にかかるといっても 为准。",
+    "2016-12 第 41 题 searchText 错位为文章长段；实际原选项第 2 项为 こちらにいえるとは限らない。",
+    "2017-07 第 43 题中文译文将 自分がもう一人いる 意译成多了弟弟；知识卡依原日文说明为另一个自己。",
+    "2018-07 第 44 题中文选项翻译方向有误；外すわけにもいかない 为因条件限制不能撤掉。",
+    "2019-07 文章翻译页为 PDF 43，不是初估的 46；已纠正。",
+    "这些是依据用户提供材料整理的学习说明，非官方新增解析。"
+  ],
+  "perExam": [
+    {
+      "exam": "2010-07",
+      "count": 5,
+      "translationPages": [
+        40
+      ],
+      "originalQuestionPages": [
+        7
+      ],
+      "questionIds": [
+        "provided-N1-2010-07-41",
+        "provided-N1-2010-07-42",
+        "provided-N1-2010-07-43",
+        "provided-N1-2010-07-44",
+        "provided-N1-2010-07-45"
+      ],
+      "answers": [
+        3,
+        1,
+        4,
+        2,
+        1
+      ],
+      "sourcePdf": "sources/provided/N1-2010-07.pdf",
+      "translationPageFirstLine": "10年7月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2010-12",
+      "count": 5,
+      "translationPages": [
+        43
+      ],
+      "originalQuestionPages": [
+        11,
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2010-12-41",
+        "provided-N1-2010-12-42",
+        "provided-N1-2010-12-43",
+        "provided-N1-2010-12-44",
+        "provided-N1-2010-12-45"
+      ],
+      "answers": [
+        1,
+        3,
+        4,
+        3,
+        2
+      ],
+      "sourcePdf": "sources/provided/N1-2010-12.pdf",
+      "translationPageFirstLine": "2010年12月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2011-07",
+      "count": 5,
+      "translationPages": [
+        44
+      ],
+      "originalQuestionPages": [
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2011-07-41",
+        "provided-N1-2011-07-42",
+        "provided-N1-2011-07-43",
+        "provided-N1-2011-07-44",
+        "provided-N1-2011-07-45"
+      ],
+      "answers": [
+        3,
+        2,
+        4,
+        1,
+        1
+      ],
+      "sourcePdf": "sources/provided/N1-2011-07.pdf",
+      "translationPageFirstLine": "2011年7月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2011-12",
+      "count": 5,
+      "translationPages": [
+        43
+      ],
+      "originalQuestionPages": [
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2011-12-41",
+        "provided-N1-2011-12-42",
+        "provided-N1-2011-12-43",
+        "provided-N1-2011-12-44",
+        "provided-N1-2011-12-45"
+      ],
+      "answers": [
+        1,
+        2,
+        2,
+        4,
+        3
+      ],
+      "sourcePdf": "sources/provided/N1-2011-12.pdf",
+      "translationPageFirstLine": "2011年12月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2012-07",
+      "count": 5,
+      "translationPages": [
+        42
+      ],
+      "originalQuestionPages": [
+        13
+      ],
+      "questionIds": [
+        "provided-N1-2012-07-41",
+        "provided-N1-2012-07-42",
+        "provided-N1-2012-07-43",
+        "provided-N1-2012-07-44",
+        "provided-N1-2012-07-45"
+      ],
+      "answers": [
+        3,
+        2,
+        3,
+        4,
+        1
+      ],
+      "sourcePdf": "sources/provided/N1-2012-07.pdf",
+      "translationPageFirstLine": "2012年7月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2012-12",
+      "count": 5,
+      "translationPages": [
+        43
+      ],
+      "originalQuestionPages": [
+        14,
+        15
+      ],
+      "questionIds": [
+        "provided-N1-2012-12-41",
+        "provided-N1-2012-12-42",
+        "provided-N1-2012-12-43",
+        "provided-N1-2012-12-44",
+        "provided-N1-2012-12-45"
+      ],
+      "answers": [
+        3,
+        2,
+        1,
+        4,
+        2
+      ],
+      "sourcePdf": "sources/provided/N1-2012-12.pdf",
+      "translationPageFirstLine": "2012年12月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2013-07",
+      "count": 5,
+      "translationPages": [
+        39
+      ],
+      "originalQuestionPages": [
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2013-07-41",
+        "provided-N1-2013-07-42",
+        "provided-N1-2013-07-43",
+        "provided-N1-2013-07-44",
+        "provided-N1-2013-07-45"
+      ],
+      "answers": [
+        2,
+        1,
+        3,
+        4,
+        3
+      ],
+      "sourcePdf": "sources/provided/N1-2013-07.pdf",
+      "translationPageFirstLine": "2013年7月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2013-12",
+      "count": 5,
+      "translationPages": [
+        39
+      ],
+      "originalQuestionPages": [
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2013-12-41",
+        "provided-N1-2013-12-42",
+        "provided-N1-2013-12-43",
+        "provided-N1-2013-12-44",
+        "provided-N1-2013-12-45"
+      ],
+      "answers": [
+        2,
+        3,
+        1,
+        2,
+        4
+      ],
+      "sourcePdf": "sources/provided/N1-2013-12.pdf",
+      "translationPageFirstLine": "2013年12月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2014-07",
+      "count": 5,
+      "translationPages": [
+        41
+      ],
+      "originalQuestionPages": [
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2014-07-41",
+        "provided-N1-2014-07-42",
+        "provided-N1-2014-07-43",
+        "provided-N1-2014-07-44",
+        "provided-N1-2014-07-45"
+      ],
+      "answers": [
+        2,
+        2,
+        3,
+        1,
+        2
+      ],
+      "sourcePdf": "sources/provided/N1-2014-07.pdf",
+      "translationPageFirstLine": "2014年7月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2014-12",
+      "count": 5,
+      "translationPages": [
+        43
+      ],
+      "originalQuestionPages": [
+        12,
+        13
+      ],
+      "questionIds": [
+        "provided-N1-2014-12-41",
+        "provided-N1-2014-12-42",
+        "provided-N1-2014-12-43",
+        "provided-N1-2014-12-44",
+        "provided-N1-2014-12-45"
+      ],
+      "answers": [
+        3,
+        1,
+        2,
+        4,
+        1
+      ],
+      "sourcePdf": "sources/provided/N1-2014-12.pdf",
+      "translationPageFirstLine": "2014年12月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2015-07",
+      "count": 5,
+      "translationPages": [
+        42
+      ],
+      "originalQuestionPages": [
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2015-07-41",
+        "provided-N1-2015-07-42",
+        "provided-N1-2015-07-43",
+        "provided-N1-2015-07-44",
+        "provided-N1-2015-07-45"
+      ],
+      "answers": [
+        4,
+        3,
+        1,
+        1,
+        2
+      ],
+      "sourcePdf": "sources/provided/N1-2015-07.pdf",
+      "translationPageFirstLine": "2015年7月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2015-12",
+      "count": 5,
+      "translationPages": [
+        41
+      ],
+      "originalQuestionPages": [
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2015-12-41",
+        "provided-N1-2015-12-42",
+        "provided-N1-2015-12-43",
+        "provided-N1-2015-12-44",
+        "provided-N1-2015-12-45"
+      ],
+      "answers": [
+        2,
+        1,
+        3,
+        1,
+        4
+      ],
+      "sourcePdf": "sources/provided/N1-2015-12.pdf",
+      "translationPageFirstLine": "2015年12月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2016-07",
+      "count": 5,
+      "translationPages": [
+        43
+      ],
+      "originalQuestionPages": [
+        13
+      ],
+      "questionIds": [
+        "provided-N1-2016-07-41",
+        "provided-N1-2016-07-42",
+        "provided-N1-2016-07-43",
+        "provided-N1-2016-07-44",
+        "provided-N1-2016-07-45"
+      ],
+      "answers": [
+        4,
+        2,
+        3,
+        2,
+        1
+      ],
+      "sourcePdf": "sources/provided/N1-2016-07.pdf",
+      "translationPageFirstLine": "2016年7月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2016-12",
+      "count": 5,
+      "translationPages": [
+        43
+      ],
+      "originalQuestionPages": [
+        11,
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2016-12-41",
+        "provided-N1-2016-12-42",
+        "provided-N1-2016-12-43",
+        "provided-N1-2016-12-44",
+        "provided-N1-2016-12-45"
+      ],
+      "answers": [
+        2,
+        3,
+        1,
+        3,
+        4
+      ],
+      "sourcePdf": "sources/provided/N1-2016-12.pdf",
+      "translationPageFirstLine": "2016年12月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2017-07",
+      "count": 5,
+      "translationPages": [
+        46
+      ],
+      "originalQuestionPages": [
+        12,
+        13
+      ],
+      "questionIds": [
+        "provided-N1-2017-07-41",
+        "provided-N1-2017-07-42",
+        "provided-N1-2017-07-43",
+        "provided-N1-2017-07-44",
+        "provided-N1-2017-07-45"
+      ],
+      "answers": [
+        3,
+        4,
+        2,
+        1,
+        1
+      ],
+      "sourcePdf": "sources/provided/N1-2017-07.pdf",
+      "translationPageFirstLine": "2017年7月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2017-12",
+      "count": 5,
+      "translationPages": [
+        40
+      ],
+      "originalQuestionPages": [
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2017-12-41",
+        "provided-N1-2017-12-42",
+        "provided-N1-2017-12-43",
+        "provided-N1-2017-12-44",
+        "provided-N1-2017-12-45"
+      ],
+      "answers": [
+        4,
+        1,
+        1,
+        2,
+        3
+      ],
+      "sourcePdf": "sources/provided/N1-2017-12.pdf",
+      "translationPageFirstLine": "2017年12月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2018-07",
+      "count": 5,
+      "translationPages": [
+        43
+      ],
+      "originalQuestionPages": [
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2018-07-41",
+        "provided-N1-2018-07-42",
+        "provided-N1-2018-07-43",
+        "provided-N1-2018-07-44",
+        "provided-N1-2018-07-45"
+      ],
+      "answers": [
+        3,
+        1,
+        2,
+        4,
+        1
+      ],
+      "sourcePdf": "sources/provided/N1-2018-07.pdf",
+      "translationPageFirstLine": "2018年7月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2018-12",
+      "count": 5,
+      "translationPages": [
+        43
+      ],
+      "originalQuestionPages": [
+        13
+      ],
+      "questionIds": [
+        "provided-N1-2018-12-41",
+        "provided-N1-2018-12-42",
+        "provided-N1-2018-12-43",
+        "provided-N1-2018-12-44",
+        "provided-N1-2018-12-45"
+      ],
+      "answers": [
+        1,
+        2,
+        4,
+        3,
+        1
+      ],
+      "sourcePdf": "sources/provided/N1-2018-12.pdf",
+      "translationPageFirstLine": "2018年12月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2019-07",
+      "count": 5,
+      "translationPages": [
+        43
+      ],
+      "originalQuestionPages": [
+        13
+      ],
+      "questionIds": [
+        "provided-N1-2019-07-41",
+        "provided-N1-2019-07-42",
+        "provided-N1-2019-07-43",
+        "provided-N1-2019-07-44",
+        "provided-N1-2019-07-45"
+      ],
+      "answers": [
+        3,
+        2,
+        2,
+        4,
+        1
+      ],
+      "sourcePdf": "sources/provided/N1-2019-07.pdf",
+      "translationPageFirstLine": "2019年7月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2019-12",
+      "count": 5,
+      "translationPages": [
+        51
+      ],
+      "originalQuestionPages": [
+        14,
+        15,
+        16
+      ],
+      "questionIds": [
+        "provided-N1-2019-12-41",
+        "provided-N1-2019-12-42",
+        "provided-N1-2019-12-43",
+        "provided-N1-2019-12-44",
+        "provided-N1-2019-12-45"
+      ],
+      "answers": [
+        3,
+        4,
+        4,
+        3,
+        2
+      ],
+      "sourcePdf": "sources/provided/N1-2019-12.pdf",
+      "translationPageFirstLine": "2019年12月日语能力考试N1阅读文章翻译"
+    },
+    {
+      "exam": "2020-12",
+      "count": 4,
+      "translationPages": [
+        36
+      ],
+      "originalQuestionPages": [
+        12
+      ],
+      "questionIds": [
+        "provided-N1-2020-12-41",
+        "provided-N1-2020-12-42",
+        "provided-N1-2020-12-43",
+        "provided-N1-2020-12-44"
+      ],
+      "answers": [
+        2,
+        1,
+        2,
+        3
+      ],
+      "sourcePdf": "sources/provided/N1-2020-12.pdf",
+      "translationPageFirstLine": "2020 年 N１完型阅读翻译"
+    },
+    {
+      "exam": "2021-07",
+      "count": 4,
+      "translationPages": [
+        39
+      ],
+      "originalQuestionPages": [
+        13
+      ],
+      "questionIds": [
+        "provided-N1-2021-07-41",
+        "provided-N1-2021-07-42",
+        "provided-N1-2021-07-43",
+        "provided-N1-2021-07-44"
+      ],
+      "answers": [
+        4,
+        2,
+        3,
+        1
+      ],
+      "sourcePdf": "sources/provided/N1-2021-07.pdf",
+      "translationPageFirstLine": "2021 年 7 月 N1 完型阅读翻译"
+    }
+  ]
+}

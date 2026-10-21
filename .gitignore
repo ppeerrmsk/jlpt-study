@@ -1,0 +1,14 @@
+server/runtime/
+runtime/
+tmp/
+*.tmp
+__pycache__/
+node_modules/
+.env
+.env.*
+*.log
+*.zip
+*.zip.sha256.txt
+preview-records*
+*backup*.json
+*备份*.json

@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "id": "custom-example-001",
+      "level": "N2",
+      "section": "grammar",
+      "prompt": "使い方の練習（オリジナル問題）\n日本に来て（　）、毎朝ラジオを聞いている。",
+      "options": ["以来", "以上", "最中", "途中"],
+      "answer": 1,
+      "source": "本工具自编格式示例，非官方真题",
+      "explanation": "动词て形＋以来表示自从某个时间点以来一直持续。"
+    }
+  ]
+}

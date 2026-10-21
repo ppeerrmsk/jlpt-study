@@ -1,0 +1,1731 @@
+{
+  "version": 1,
+  "id": "jlpt-2018-v1",
+  "questions": [
+    {
+      "id": "official-2018-N1-1",
+      "level": "N1",
+      "section": "vocab",
+      "group": 1,
+      "number": 1,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-01.webp",
+      "pageImage": "assets/N1-V-page-3.webp",
+      "answer": 1,
+      "searchText": " 社会活動に参加することで、人脈を広げることができた。\n１ じんみゃく ２ じんまく ３ にんみゃく ４ にんまく",
+      "knowledge": {
+        "term": "人脈",
+        "reading": "じんみゃく",
+        "meaning": "人际关系网络",
+        "tip": "脈读みゃく；可搭配人脈を広げる、築く。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-2",
+      "level": "N1",
+      "section": "vocab",
+      "group": 1,
+      "number": 2,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-02.webp",
+      "pageImage": "assets/N1-V-page-3.webp",
+      "answer": 2,
+      "searchText": "すずき\n 鈴木さんは指摘がいつも的確で、本当に賢い人だと思う。\n１ するどい ２ かしこい ３ すごい ４ えらい",
+      "knowledge": {
+        "term": "賢い",
+        "reading": "かしこい",
+        "meaning": "聪明、明智",
+        "tip": "賢い强调智慧和判断；鋭い（するどい）强调敏锐。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-3",
+      "level": "N1",
+      "section": "vocab",
+      "group": 1,
+      "number": 3,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-03.webp",
+      "pageImage": "assets/N1-V-page-3.webp",
+      "answer": 3,
+      "searchText": " 文化の違いが食生活に顕著に現れている。\n１ げんちょ ２ けんしょ ３ けんちょ ４ げんしょ",
+      "knowledge": {
+        "term": "顕著",
+        "reading": "けんちょ",
+        "meaning": "显著、明显",
+        "tip": "顕著に現れる：明显地表现出来。注意顕读けん。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-4",
+      "level": "N1",
+      "section": "vocab",
+      "group": 1,
+      "number": 4,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-04.webp",
+      "pageImage": "assets/N1-V-page-3.webp",
+      "answer": 1,
+      "searchText": " 相談の内容は多岐にわたった。\n１ たき ２ たじ ３ たぎ ４ たし",
+      "knowledge": {
+        "term": "多岐",
+        "reading": "たき",
+        "meaning": "多个方面、分支众多",
+        "tip": "多岐にわたる：涉及许多方面；岐不浊化。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-5",
+      "level": "N1",
+      "section": "vocab",
+      "group": 1,
+      "number": 5,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-05.webp",
+      "pageImage": "assets/N1-V-page-3.webp",
+      "answer": 4,
+      "searchText": " その風習は、今はもう廃れてしまった。\n１ くずれて ２ かすれて ３ つぶれて ４ すたれて",
+      "knowledge": {
+        "term": "廃れる",
+        "reading": "すたれる",
+        "meaning": "衰落、过时、不再流行",
+        "tip": "多用于风俗、制度或流行事物。崩れる是崩塌；潰れる是压坏等。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-6",
+      "level": "N1",
+      "section": "vocab",
+      "group": 1,
+      "number": 6,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-06.webp",
+      "pageImage": "assets/N1-V-page-3.webp",
+      "answer": 2,
+      "searchText": " 家賃の相場は地域によって違う。\n１ あいば ２ そうば ３ あいじょう ４ そうじょう",
+      "knowledge": {
+        "term": "相場",
+        "reading": "そうば",
+        "meaning": "行情、通常价格",
+        "tip": "家賃の相場：房租行情；也可说相場が上がる。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-7",
+      "level": "N1",
+      "section": "vocab",
+      "group": 2,
+      "number": 7,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-07.webp",
+      "pageImage": "assets/N1-V-page-4.webp",
+      "answer": 2,
+      "searchText": " 私はこの土地で定職に就き、生活の（ ）を築いた。\n１ 根拠 ２ 基盤 ３ 根源 ４ 基地",
+      "knowledge": {
+        "term": "基盤",
+        "reading": "きばん",
+        "meaning": "基础、根基",
+        "tip": "生活の基盤を築く是自然搭配；根拠是判断的依据。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-8",
+      "level": "N1",
+      "section": "vocab",
+      "group": 2,
+      "number": 8,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-08.webp",
+      "pageImage": "assets/N1-V-page-4.webp",
+      "answer": 1,
+      "searchText": " 議論は難航すると思ったが、すぐに意見がまとまり、（ ）結論が出た。\n１ すんなり ２ うっとり ３ ふんわり ４ こっそり",
+      "knowledge": {
+        "term": "すんなり",
+        "reading": "",
+        "meaning": "顺利、毫无阻碍地",
+        "tip": "すんなり決まる／まとまる。うっとり是陶醉，こっそり是偷偷。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-9",
+      "level": "N1",
+      "section": "vocab",
+      "group": 2,
+      "number": 9,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-09.webp",
+      "pageImage": "assets/N1-V-page-4.webp",
+      "answer": 3,
+      "searchText": "さとう\n さっき駅前で佐藤さんを（ ）んですが、今、海外にいるはずなのに変ですね。\n１ 見合わせた ２ 見過ごした ３ 見かけた ４ 見違えた",
+      "knowledge": {
+        "term": "見かける",
+        "reading": "みかける",
+        "meaning": "偶然看见",
+        "tip": "見合わせる是暂缓；見過ごす是看漏或放过；見違える是认错或判若两人。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-10",
+      "level": "N1",
+      "section": "vocab",
+      "group": 2,
+      "number": 10,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-10.webp",
+      "pageImage": "assets/N1-V-page-4.webp",
+      "answer": 1,
+      "searchText": " 市長の責任ある行動が住民の不安を（ ）し、行政に対する期待が一気に高まった。\n１ 一掃 ２ 追放 ３ 削除 ４ 排出",
+      "knowledge": {
+        "term": "一掃",
+        "reading": "いっそう",
+        "meaning": "一扫而空、彻底消除",
+        "tip": "不安を一掃する。追放针对驱逐，削除针对删除，排出针对排出物质等。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-11",
+      "level": "N1",
+      "section": "vocab",
+      "group": 2,
+      "number": 11,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-11.webp",
+      "pageImage": "assets/N1-V-page-4.webp",
+      "answer": 2,
+      "searchText": " 十分に煮た野菜は味が（ ）柔らかく、とてもおいしかった。\nと し うるお しず\n１ 溶けて ２ 染みて ３ 潤って ４ 沈んで",
+      "knowledge": {
+        "term": "染みる",
+        "reading": "しみる",
+        "meaning": "渗入、浸透",
+        "tip": "味が染みる表示调味入味；溶ける是溶解，潤う是滋润。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-12",
+      "level": "N1",
+      "section": "vocab",
+      "group": 2,
+      "number": 12,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-12.webp",
+      "pageImage": "assets/N1-V-page-4.webp",
+      "answer": 4,
+      "searchText": " このテーブルは私が子どものころから使っているので、（ ）があって捨てられ\nない。\n１ 心情 ２ 好感 ３ 熱意 ４ 愛着",
+      "knowledge": {
+        "term": "愛着",
+        "reading": "あいちゃく",
+        "meaning": "依恋、深厚感情",
+        "tip": "長年使った物に愛着がある。好感是好印象，熱意是热情。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-13",
+      "level": "N1",
+      "section": "vocab",
+      "group": 2,
+      "number": 13,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-13.webp",
+      "pageImage": "assets/N1-V-page-4.webp",
+      "answer": 4,
+      "searchText": " 現社長は創立者から経営の（ ）を学んだ。\n１ データベース ２ ベテラン ３ ライフワーク ４ ノウハウ",
+      "knowledge": {
+        "term": "ノウハウ",
+        "reading": "",
+        "meaning": "实际诀窍、专门技术经验",
+        "tip": "経営のノウハウ。ベテラン指经验丰富的人，ライフワーク指毕生事业。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-14",
+      "level": "N1",
+      "section": "vocab",
+      "group": 3,
+      "number": 14,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-14.webp",
+      "pageImage": "assets/N1-V-page-5.webp",
+      "answer": 4,
+      "searchText": "たかはし\n 高橋さんにはかねがねお会いしたいと思っていました。\n１ 直接 ２ ぜひ ３ 早く ４ 以前から",
+      "knowledge": {
+        "term": "かねがね",
+        "reading": "",
+        "meaning": "早就、很久以来",
+        "tip": "常和想法、愿望搭配：かねがね会いたいと思っていた。近义为以前から。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-15",
+      "level": "N1",
+      "section": "vocab",
+      "group": 3,
+      "number": 15,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-15.webp",
+      "pageImage": "assets/N1-V-page-5.webp",
+      "answer": 1,
+      "searchText": "はやし\n 林さんはそれを故意に捨てたらしい。\n１ わざと ２ うっかり ３ いやいや ４ さっさと",
+      "knowledge": {
+        "term": "故意に",
+        "reading": "こいに",
+        "meaning": "故意地",
+        "tip": "近义为わざと；うっかり是无意疏忽，含义相反。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-16",
+      "level": "N1",
+      "section": "vocab",
+      "group": 3,
+      "number": 16,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-16.webp",
+      "pageImage": "assets/N1-V-page-5.webp",
+      "answer": 4,
+      "searchText": "すずき\n 昨日、鈴木さんにおわびした。\n１ 文句を言った ２ お礼を言った ３ 断った ４ 謝った",
+      "knowledge": {
+        "term": "おわびする",
+        "reading": "",
+        "meaning": "道歉",
+        "tip": "お詫びする与謝る近义；区别于お礼を言う（道谢）。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-17",
+      "level": "N1",
+      "section": "vocab",
+      "group": 3,
+      "number": 17,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-17.webp",
+      "pageImage": "assets/N1-V-page-5.webp",
+      "answer": 3,
+      "searchText": "なかむら\n 中村さんの言葉からは強い意気込みが伝わってくる。\n１ 敬意 ２ 自信 ３ 意欲 ４ 信頼",
+      "knowledge": {
+        "term": "意気込み",
+        "reading": "いきごみ",
+        "meaning": "干劲、积极意愿",
+        "tip": "强调做事的强烈意欲；不等同于自信、敬意或信赖。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-18",
+      "level": "N1",
+      "section": "vocab",
+      "group": 3,
+      "number": 18,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-18.webp",
+      "pageImage": "assets/N1-V-page-5.webp",
+      "answer": 2,
+      "searchText": " 妹は少しおびえているようだった。\n１ 焦って ２ 怖がって ３ 悩んで ４ 悔やんで",
+      "knowledge": {
+        "term": "おびえる",
+        "reading": "",
+        "meaning": "害怕、胆怯",
+        "tip": "怯える与怖がる接近。焦る是焦急，悔やむ是后悔。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-19",
+      "level": "N1",
+      "section": "vocab",
+      "group": 3,
+      "number": 19,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-19.webp",
+      "pageImage": "assets/N1-V-page-5.webp",
+      "answer": 3,
+      "searchText": "あんど\n 私はその一言に安堵した。\n１ すっとした ２ はっとした ３ ほっとした ４ かっとした",
+      "knowledge": {
+        "term": "安堵",
+        "reading": "あんど",
+        "meaning": "放心、松一口气",
+        "tip": "安堵する接近ほっとする；はっとする是猛然惊觉，かっとする是勃然大怒。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-20",
+      "level": "N1",
+      "section": "vocab",
+      "group": 4,
+      "number": 20,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-20.webp",
+      "pageImage": "assets/N1-V-page-6.webp",
+      "answer": 1,
+      "searchText": " 閑静\n１ そのレストランは繁華街から外れた閑静な場所にある。\n２ 今日は朝から具合が悪かったので、会社を休んで家で閑静にしていた。\n３ 用事が早く済み、閑静な時間ができたので、映画を見に行くことにした。\n４ 日中はにぎやかな公園だが、夜になると急に閑静になる。",
+      "knowledge": {
+        "term": "閑静",
+        "reading": "かんせい",
+        "meaning": "环境幽静",
+        "tip": "通常形容住宅地或场所；人的休养用安静にする，空出的时间用暇な時間。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-21",
+      "level": "N1",
+      "section": "vocab",
+      "group": 4,
+      "number": 21,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-21.webp",
+      "pageImage": "assets/N1-V-page-6.webp",
+      "answer": 4,
+      "searchText": " たやすい\n１ 弟は寝坊したらしく、たやすい物だけ食べて、慌てて出かけていった。\nいとう ほんね\n２ 伊藤氏とは大学時代からの親友で、本音が言えるたやすい関係だ。\n３ せっかくの日曜日だから、ゆっくり休んでたやすく過ごそうと思う。\n４ この問題は想像以上に複雑で、たやすく解決できるものではなかった。",
+      "knowledge": {
+        "term": "たやすい",
+        "reading": "",
+        "meaning": "容易、不费力",
+        "tip": "たやすく解決する／たやすい問題。不能直接替代简单的食物、轻松的交情等说法。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-22",
+      "level": "N1",
+      "section": "vocab",
+      "group": 4,
+      "number": 22,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-22.webp",
+      "pageImage": "assets/N1-V-page-6.webp",
+      "answer": 3,
+      "searchText": " 察する\n１ 医師たちはチームを組み、意見を出し合って、最良の治療法を察した。\n２ 気象予報士はテレビの天気予報で、来週の気温の変化を察し始めた。\nすずき\n３ 鈴木さんは、私が何も言わなくても、私の気持ちを察して慰めてくれた。\n４ 外を歩いていたら急にいいアイディアを察したので、手帳にメモをした。",
+      "knowledge": {
+        "term": "察する",
+        "reading": "さっする",
+        "meaning": "根据迹象体会、推知",
+        "tip": "気持ちを察する。商定方案、天气预报、想到点子分别有更合适的动词。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-23",
+      "level": "N1",
+      "section": "vocab",
+      "group": 4,
+      "number": 23,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-23.webp",
+      "pageImage": "assets/N1-V-page-6.webp",
+      "answer": 2,
+      "searchText": " 内訳\n１ 来週の内訳を確認したが、予定がないのは木曜の夜だけだ。\n２ 前回の出張費の内訳を見たら、交通費の割合が予想外に高かった。\n３ 司会者は進行を間違えないように、式の内訳を何度も見直した。\n４ 家族の健康のため、栄養の内訳を考えて食事を作っている。",
+      "knowledge": {
+        "term": "内訳",
+        "reading": "うちわけ",
+        "meaning": "总额或总数的明细",
+        "tip": "費用の内訳。日程安排用予定，活动程序用進行／次第。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-24",
+      "level": "N1",
+      "section": "vocab",
+      "group": 4,
+      "number": 24,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-24.webp",
+      "pageImage": "assets/N1-V-page-6.webp",
+      "answer": 1,
+      "searchText": " 食い違う\n１ この事件は、複数の目撃者の話がそれぞれ食い違っており、不明な点が多い。\n２ 金庫を開けようと思ったが、どの鍵も食い違って開けられなかった。\n３ 何だか歩きにくいと思ったら、サンダルの左右が食い違っていた。\n４ 調味料を変えたのか、この料理はいつもと味が食い違っているように感じる。",
+      "knowledge": {
+        "term": "食い違う",
+        "reading": "くいちがう",
+        "meaning": "说法、认知不一致",
+        "tip": "証言や意見が食い違う。钥匙不匹配通常用合わない。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-25",
+      "level": "N1",
+      "section": "vocab",
+      "group": 4,
+      "number": 25,
+      "sourceId": "jlpt-2018-N1-V",
+      "image": "assets/N1-25.webp",
+      "pageImage": "assets/N1-V-page-7.webp",
+      "answer": 3,
+      "searchText": " 過密\n１ 雑誌で紹介されてから、この商品への過密な注文が続いているらしい。\n２ 水質汚染に関して人々の抗議が過密になり、政府は対策を迫られている。\n３ 今回の出張は過密なスケジュールで、ゆっくり食事する時間もなさそうだ。\n４ 春になると、この池の周りには、色とりどりの花が過密に咲き乱れる。",
+      "knowledge": {
+        "term": "過密",
+        "reading": "かみつ",
+        "meaning": "过于密集、安排过满",
+        "tip": "過密なスケジュール／過密都市。强调容量或密度超过合适程度。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-26",
+      "level": "N1",
+      "section": "grammar",
+      "group": 5,
+      "number": 26,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-26.webp",
+      "pageImage": "assets/N1-G-page-1.webp",
+      "answer": 4,
+      "searchText": " 朝の満員電車。車内の混雑を（ ）、私の目の前に座っている学生風の男は、平\n然とノートパソコンを広げて、作業に没頭していた。\n１ 含めて ２ もとに ３ 除いて ４ よそに",
+      "knowledge": {
+        "term": "〜をよそに",
+        "reading": "",
+        "meaning": "无视、不顾周围情况",
+        "tip": "名词＋をよそに。表示把他人的担忧或周围情况放在一边；文中是无视拥挤。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-27",
+      "level": "N1",
+      "section": "grammar",
+      "group": 5,
+      "number": 27,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-27.webp",
+      "pageImage": "assets/N1-G-page-1.webp",
+      "answer": 2,
+      "searchText": " 私の父は、（ ）もしないで漫画を批判するから、本当に嫌になる。\n１ 読まない ２ 読み ３ 読もう ４ 読んで",
+      "knowledge": {
+        "term": "〜もしないで",
+        "reading": "",
+        "meaning": "连……也不做就……",
+        "tip": "动词ます形词干＋もしないで。読む→読みもしないで；常带责备。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-28",
+      "level": "N1",
+      "section": "grammar",
+      "group": 5,
+      "number": 28,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-28.webp",
+      "pageImage": "assets/N1-G-page-1.webp",
+      "answer": 3,
+      "searchText": " （卒業生へのインタビューで）\n聞き手「学生時代にやったことで、今の仕事に役立っていることは何でしょうか。」\nたなか\n田中 「ラグビー部での経験ですね。チームワークの大切さを痛感しました。（ ）、\nそれは去年企画チームのリーダーになって初めて気づいたことですが。」\n１ 要するに ２ あるいは ３ もっとも ４ ついては",
+      "knowledge": {
+        "term": "もっとも",
+        "reading": "",
+        "meaning": "不过、话虽如此",
+        "tip": "用于对刚才说法作补充或限定。要するに是总结，あるいは是或／也许。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-29",
+      "level": "N1",
+      "section": "grammar",
+      "group": 5,
+      "number": 29,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-29.webp",
+      "pageImage": "assets/N1-G-page-1.webp",
+      "answer": 1,
+      "searchText": "ひがしやま\n 村の郷土史をまとめるにあたり、今年９０歳になる元村長の東山さんにお話を伺った。\n村に初めて汽車が走ったときのことを鮮明に覚えて（ ）、その記憶力に驚いた。\n１ おいでになり ２ 差し上げ ３ まいり ４ 申し上げ",
+      "knowledge": {
+        "term": "〜ておいでになる",
+        "reading": "",
+        "meaning": "〜ている的尊敬表达",
+        "tip": "抬高话题中应尊敬的人；覚えておいでになる。差し上げる、まいる、申し上げる属于谦让表达。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-30",
+      "level": "N1",
+      "section": "grammar",
+      "group": 5,
+      "number": 30,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-30.webp",
+      "pageImage": "assets/N1-G-page-1.webp",
+      "answer": 3,
+      "searchText": " （求人サイトの「よくある質問」で）\nＱ : インテリアに関する知識がないのですが、働けますか。\nＡ : 研修があるので大丈夫です。知識はある（ ）が、それよりも人柄や仕事\nに取り組む姿勢を重視しています。\n１ にすぎません ２ ことは否めません\n３ に越したことはありません ４ といっても過言ではありません",
+      "knowledge": {
+        "term": "〜に越したことはない",
+        "reading": "",
+        "meaning": "最好……、……当然更好",
+        "tip": "接动词普通形或名词等。表示理想选择，不表示必须如此。与にすぎない（只不过）不同。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-31",
+      "level": "N1",
+      "section": "grammar",
+      "group": 5,
+      "number": 31,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-31.webp",
+      "pageImage": "assets/N1-G-page-1.webp",
+      "answer": 3,
+      "searchText": " （お知らせで）\n水道管破裂による断水のため、８月１２日まで市民プールの営業を休止します。復旧\n状況（ ）、営業再開が遅れる可能性がありますので、ご了承ください。\n１ 次第には ２ 次第に ３ 次第では ４ 次第",
+      "knowledge": {
+        "term": "〜次第では",
+        "reading": "しだいでは",
+        "meaning": "视……情况，有可能……",
+        "tip": "名词＋次第では。次第に表示逐渐；动词ます形词干＋次第表示一……就……。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-32",
+      "level": "N1",
+      "section": "grammar",
+      "group": 5,
+      "number": 32,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-32.webp",
+      "pageImage": "assets/N1-G-page-2.webp",
+      "answer": 4,
+      "searchText": " クレジットカードの番号等、他人に（ ）困る情報は、電子メールには書かな\nいほうがいいそうだ。\n１ 知っていても ２ 知っていなくても\n３ 知らなくては ４ 知られては",
+      "knowledge": {
+        "term": "〜れては困る",
+        "reading": "",
+        "meaning": "如果被……就麻烦了",
+        "tip": "此处他人に知られる是被动；知られては困る表示信息被别人知道会产生问题。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-33",
+      "level": "N1",
+      "section": "grammar",
+      "group": 5,
+      "number": 33,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-33.webp",
+      "pageImage": "assets/N1-G-page-2.webp",
+      "answer": 2,
+      "searchText": " 仕事は、決められた時間内に、いかに成果を上げるかが大切であり、単に時間をか\nけて（ ）と私は思う。\n１ がんばることだといってもおかしくない\n２ がんばればいいというものではない\n３ がんばることでしかない\n４ がんばりようがない",
+      "knowledge": {
+        "term": "〜ばいいというものではない",
+        "reading": "",
+        "meaning": "并非只要……就行",
+        "tip": "否定单一条件足以成立。重点在成果，而非单纯花时间。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-34",
+      "level": "N1",
+      "section": "grammar",
+      "group": 5,
+      "number": 34,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-34.webp",
+      "pageImage": "assets/N1-G-page-2.webp",
+      "answer": 1,
+      "searchText": " 現在、潜水調査船を用いた調査研究が進展中であり、いずれ近いうちに海底のより\n詳細な地質構造が明らかに（ ）。\n１ なるものと思われる ２ するという思いがある\n３ なったかに思える ４ するだろうと思う",
+      "knowledge": {
+        "term": "〜ものと思われる",
+        "reading": "",
+        "meaning": "一般认为、预计……",
+        "tip": "明らかになる为自然变得明确；明らかにする是有人使其明确。此处主语是地质结构。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-35",
+      "level": "N1",
+      "section": "grammar",
+      "group": 5,
+      "number": 35,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-35.webp",
+      "pageImage": "assets/N1-G-page-2.webp",
+      "answer": 4,
+      "searchText": "やました にしむら\n 山下「あのう、西村先輩。私、今日でこのサークルを（ ）。」\nにしむら\n西村「ええ？ 辞める？ 急にどうして？」\n１ 辞めてしまわれたのでしょうか ２ 辞めてしまったのかと思って\n３ 辞めさせたらどうでしょうか ４ 辞めさせてもらおうかと思って",
+      "knowledge": {
+        "term": "〜させてもらおうかと思って",
+        "reading": "",
+        "meaning": "在想是否请允许自己……",
+        "tip": "使役＋てもらう表示得到许可；意向形＋かと思って可委婉表达本人打算。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-36",
+      "level": "N1",
+      "section": "grammar",
+      "group": 6,
+      "number": 36,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-36.webp",
+      "pageImage": "assets/N1-G-page-3.webp",
+      "answer": 2,
+      "searchText": " 「アセビ」という、白い花を咲かせる樹木を漢字で「馬酔木」と書くのは、アセビ\nには ★ そうです。\n１ 由来する ２ 有毒成分があり\n３ 状態になることに ４ 馬が食べると酔ったような",
+      "knowledge": {
+        "term": "〜ことに由来する",
+        "reading": "",
+        "meaning": "来源于……这一事实",
+        "tip": "先连接原因内部的逻辑：有毒成分→马吃后似醉→名称由此而来。排序需先找谓语由来する。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-37",
+      "level": "N1",
+      "section": "grammar",
+      "group": 6,
+      "number": 37,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-37.webp",
+      "pageImage": "assets/N1-G-page-3.webp",
+      "answer": 1,
+      "searchText": " 家族の時間を大切にする夫は、つい ★ ありがた\nい存在です。\n１ 本当に大切なものは何なのか ２ 私に\n３ 仕事に夢中になりすぎる ４ 気づかせてくれる",
+      "knowledge": {
+        "term": "〜に気づかせる",
+        "reading": "",
+        "meaning": "使某人意识到……",
+        "tip": "気づく→気づかせる。何なのか构成嵌入疑问；仕事に夢中になりすぎる修饰私。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-38",
+      "level": "N1",
+      "section": "grammar",
+      "group": 6,
+      "number": 38,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-38.webp",
+      "pageImage": "assets/N1-G-page-4.webp",
+      "answer": 4,
+      "searchText": "はやしかずお\n Ｚ県知事の林和夫氏は、週刊誌で、脱税を行った ★\n異なり、名誉を傷つけられたとして、発行元のＸ社を相手取り訴訟を起こした。\n１ 事実とは全く ２ 疑いがあるなどと\n３ 報じられた ４ ことに対し",
+      "knowledge": {
+        "term": "〜ことに対し",
+        "reading": "",
+        "meaning": "针对……这件事",
+        "tip": "先把被报道的内容接成疑いがあるなどと報じられたこと；随后用ことに対し接回应。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-39",
+      "level": "N1",
+      "section": "grammar",
+      "group": 6,
+      "number": 39,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-39.webp",
+      "pageImage": "assets/N1-G-page-4.webp",
+      "answer": 3,
+      "searchText": " Ｑ鉄道が１０年ぶりに運賃値上げに踏み切った。安全対策や原油の高騰で支出が増え、\n経営努力だけでは対応しきれないと判断 ★ 。\n１ という ２ の ３ ことだ ４ して",
+      "knowledge": {
+        "term": "〜てのことだという",
+        "reading": "",
+        "meaning": "据说是基于……而做出的事",
+        "tip": "先连成判断してのことだ，再用という转述：据说涨价是在判断原有经营努力难以应对之后作出的。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N1-40",
+      "level": "N1",
+      "section": "grammar",
+      "group": 6,
+      "number": 40,
+      "sourceId": "jlpt-2018-N1-G",
+      "image": "assets/N1-40.webp",
+      "pageImage": "assets/N1-G-page-4.webp",
+      "answer": 2,
+      "searchText": " 世の中にはさまざまな資格があふれているが、資格を取った\n★ 世間は甘くないらしい。\n１ だけ ２ ほど\n３ で ４ 希望の職につける",
+      "knowledge": {
+        "term": "〜ほど甘くない",
+        "reading": "",
+        "meaning": "没有天真／容易到……程度",
+        "tip": "ほど前接程度标准：资格一到手就能得到理想工作。取っただけで表达仅靠取得资格。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-1",
+      "level": "N2",
+      "section": "vocab",
+      "group": 1,
+      "number": 1,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-01.webp",
+      "pageImage": "assets/N2-V-page-3.webp",
+      "answer": 2,
+      "searchText": " 先生に貴重な資料を見せていただいた。\n１ きじゅう ２ きちょう ３ きっじゅう ４ きっちょう",
+      "knowledge": {
+        "term": "貴重",
+        "reading": "きちょう",
+        "meaning": "珍贵、宝贵",
+        "tip": "貴重な資料／経験。注意长音ちょう，不含促音。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-2",
+      "level": "N2",
+      "section": "vocab",
+      "group": 1,
+      "number": 2,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-02.webp",
+      "pageImage": "assets/N2-V-page-3.webp",
+      "answer": 4,
+      "searchText": " その話を聞いて、とても怪しいと思った。\n１ むなしい ２ くやしい ３ おかしい ４ あやしい",
+      "knowledge": {
+        "term": "怪しい",
+        "reading": "あやしい",
+        "meaning": "可疑、不可靠",
+        "tip": "怪しい話。むなしい是空虚，悔しい是懊恼，可笑しい是奇怪或可笑。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-3",
+      "level": "N2",
+      "section": "vocab",
+      "group": 1,
+      "number": 3,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-03.webp",
+      "pageImage": "assets/N2-V-page-3.webp",
+      "answer": 2,
+      "searchText": "さとう\n 佐藤さんは容姿も性格もいい。\n１ よし ２ ようし ３ ようす ４ よす",
+      "knowledge": {
+        "term": "容姿",
+        "reading": "ようし",
+        "meaning": "容貌、外表",
+        "tip": "容姿がいい。様子（ようす）指样子、状态，读音与含义均不同。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-4",
+      "level": "N2",
+      "section": "vocab",
+      "group": 1,
+      "number": 4,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-04.webp",
+      "pageImage": "assets/N2-V-page-3.webp",
+      "answer": 3,
+      "searchText": " これは危険を伴う実験だ。\n１ はらう ２ あつかう ３ ともなう ４ すくう",
+      "knowledge": {
+        "term": "伴う",
+        "reading": "ともなう",
+        "meaning": "伴随、附带",
+        "tip": "危険を伴う表示伴随危险；注意动词读法ともなう。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-5",
+      "level": "N2",
+      "section": "vocab",
+      "group": 1,
+      "number": 5,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-05.webp",
+      "pageImage": "assets/N2-V-page-3.webp",
+      "answer": 1,
+      "searchText": " 以前は、海外で暮らしたいという願望が強かった。\n１ がんぼう ２ げんぼう ３ がんぼ ４ げんぼ",
+      "knowledge": {
+        "term": "願望",
+        "reading": "がんぼう",
+        "meaning": "愿望",
+        "tip": "願望が強い／願望を抱く；望读ぼう。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-6",
+      "level": "N2",
+      "section": "vocab",
+      "group": 2,
+      "number": 6,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-06.webp",
+      "pageImage": "assets/N2-V-page-4.webp",
+      "answer": 2,
+      "searchText": " 友人を家にまねいた。\n１ 伯いた ２ 招いた ３ 泊いた ４ 召いた",
+      "knowledge": {
+        "term": "招く",
+        "reading": "まねく",
+        "meaning": "邀请；引起",
+        "tip": "人を家に招く；也可说誤解を招く。泊まる是住宿，召す是敬语动词。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-7",
+      "level": "N2",
+      "section": "vocab",
+      "group": 2,
+      "number": 7,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-07.webp",
+      "pageImage": "assets/N2-V-page-4.webp",
+      "answer": 3,
+      "searchText": " この商品は安全性がほしょうされている。\n１ 補証 ２ 保正 ３ 保証 ４ 補正",
+      "knowledge": {
+        "term": "保証",
+        "reading": "ほしょう",
+        "meaning": "保证、担保",
+        "tip": "安全性を保証する。保障偏向保障权利或生活，補償偏向损失赔偿。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-8",
+      "level": "N2",
+      "section": "vocab",
+      "group": 2,
+      "number": 8,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-08.webp",
+      "pageImage": "assets/N2-V-page-4.webp",
+      "answer": 2,
+      "searchText": " この企業では、さまざまなもよおしを行っている。\n１ 携し ２ 催し ３ 推し ４ 権し",
+      "knowledge": {
+        "term": "催し",
+        "reading": "もよおし",
+        "meaning": "活动、集会",
+        "tip": "催しを行う。动词是催す（もよおす）。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-9",
+      "level": "N2",
+      "section": "vocab",
+      "group": 2,
+      "number": 9,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-09.webp",
+      "pageImage": "assets/N2-V-page-4.webp",
+      "answer": 1,
+      "searchText": " 銀行に行って、お札をこうかに替えた。\n１ 硬貨 ２ 固貨 ３ 硬価 ４ 固価",
+      "knowledge": {
+        "term": "硬貨",
+        "reading": "こうか",
+        "meaning": "硬币",
+        "tip": "与紙幣（しへい）对应；硬表示坚硬，貨表示货币或货物。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-10",
+      "level": "N2",
+      "section": "vocab",
+      "group": 2,
+      "number": 10,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-10.webp",
+      "pageImage": "assets/N2-V-page-4.webp",
+      "answer": 4,
+      "searchText": " わが社の商品はここでせいぞうされている。\n１ 製増 ２ 制増 ３ 制造 ４ 製造",
+      "knowledge": {
+        "term": "製造",
+        "reading": "せいぞう",
+        "meaning": "制造产品",
+        "tip": "製造する、製造業。製侧重制作物品，不是制度的制。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-11",
+      "level": "N2",
+      "section": "vocab",
+      "group": 3,
+      "number": 11,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-11.webp",
+      "pageImage": "assets/N2-V-page-5.webp",
+      "answer": 1,
+      "searchText": " 男女の結婚（ ）の違いについて調べた。\n１ 観 ２ 識 ３ 念 ４ 察",
+      "knowledge": {
+        "term": "〜観",
+        "reading": "かん",
+        "meaning": "对某事的看法或观念",
+        "tip": "結婚観、人生観、価値観。此处需要能接结婚构成观点的后缀。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-12",
+      "level": "N2",
+      "section": "vocab",
+      "group": 3,
+      "number": 12,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-12.webp",
+      "pageImage": "assets/N2-V-page-5.webp",
+      "answer": 3,
+      "searchText": " ここでは（ ）水準の医療が受けられる。\n１ 頂 ２ 上 ３ 高 ４ 特",
+      "knowledge": {
+        "term": "高水準",
+        "reading": "こうすいじゅん",
+        "meaning": "高水平",
+        "tip": "高水準の医療；水準前用高构词。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-13",
+      "level": "N2",
+      "section": "vocab",
+      "group": 3,
+      "number": 13,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-13.webp",
+      "pageImage": "assets/N2-V-page-5.webp",
+      "answer": 3,
+      "searchText": " 今日は大学の講義で日本（ ）の経営について学んだ。\n１ 状 ２ 類 ３ 式 ４ 則",
+      "knowledge": {
+        "term": "〜式",
+        "reading": "しき",
+        "meaning": "……式、……方式",
+        "tip": "日本式の経営、独自の方式。强调做法或形式。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-14",
+      "level": "N2",
+      "section": "vocab",
+      "group": 3,
+      "number": 14,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-14.webp",
+      "pageImage": "assets/N2-V-page-5.webp",
+      "answer": 4,
+      "searchText": " 開封しても、（ ）使用の物は返品可能です。\n１ 外 ２ 否 ３ 前 ４ 未",
+      "knowledge": {
+        "term": "未〜",
+        "reading": "み",
+        "meaning": "尚未……",
+        "tip": "未使用、未完成。未表示某动作或状态还没有发生。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-15",
+      "level": "N2",
+      "section": "vocab",
+      "group": 3,
+      "number": 15,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-15.webp",
+      "pageImage": "assets/N2-V-page-5.webp",
+      "answer": 1,
+      "searchText": " 受験生なので、勉強（ ）の毎日だ。\nづ びた ど み\n１ 漬け ２ 浸し ３ 溶け ４ 満ち",
+      "knowledge": {
+        "term": "〜漬け",
+        "reading": "づけ",
+        "meaning": "整天沉浸或忙于……",
+        "tip": "勉強漬け、仕事漬け。原本表示腌渍，转用表示完全投入某事。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-16",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 16,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-16.webp",
+      "pageImage": "assets/N2-V-page-6.webp",
+      "answer": 2,
+      "searchText": " この大学では一般向けの講座を開き、社会に学習の場を（ ）している。\nせんしゅつ ていきょう し じ き ふ\n１ 選出 ２ 提供 ３ 指示 ４ 寄付",
+      "knowledge": {
+        "term": "提供",
+        "reading": "ていきょう",
+        "meaning": "提供",
+        "tip": "場を提供する。選出是选出人选，指示是指令，寄付是捐赠。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-17",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 17,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-17.webp",
+      "pageImage": "assets/N2-V-page-6.webp",
+      "answer": 1,
+      "searchText": "きび\n 今年の夏は暑さが厳しく、仕事から家に帰ると疲れて（ ）してしまう。\n１ ぐったり ２ しっかり ３ すっきり ４ ぎっしり",
+      "knowledge": {
+        "term": "ぐったり",
+        "reading": "",
+        "meaning": "精疲力尽、浑身无力",
+        "tip": "疲れてぐったりする。すっきり是清爽，ぎっしり是挤得满满。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-18",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 18,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-18.webp",
+      "pageImage": "assets/N2-V-page-6.webp",
+      "answer": 3,
+      "searchText": " 学生時代の友人が私の名前を忘れていたので、とても（ ）だった。\n１ アウト ２ ダウン ３ ショック ４ エラー",
+      "knowledge": {
+        "term": "ショック",
+        "reading": "",
+        "meaning": "冲击、打击",
+        "tip": "ショックを受ける／ショックだった。忘记朋友姓名带来情绪上的打击。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-19",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 19,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-19.webp",
+      "pageImage": "assets/N2-V-page-6.webp",
+      "answer": 2,
+      "searchText": " 通路に荷物を置いたら、通る人の（ ）になりますよ。\nめんどう じゃま ひがい む り\n１ 面倒 ２ 邪魔 ３ 被害 ４ 無理",
+      "knowledge": {
+        "term": "邪魔",
+        "reading": "じゃま",
+        "meaning": "妨碍、障碍",
+        "tip": "人の邪魔になる。被害是损害，面倒是麻烦或照顾，無理是勉强。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-20",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 20,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-20.webp",
+      "pageImage": "assets/N2-V-page-6.webp",
+      "answer": 3,
+      "searchText": "のぼ ざか\n 少し長めの上り坂だったが（ ）ので、それほど疲れなかった。\n１ おとなしかった ２ ささやかだった\n３ なだらかだった ４ よわよわしかった",
+      "knowledge": {
+        "term": "なだらか",
+        "reading": "",
+        "meaning": "坡度平缓",
+        "tip": "なだらかな坂。おとなしい形容温顺，ささやか形容微小或朴素。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-21",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 21,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-21.webp",
+      "pageImage": "assets/N2-V-page-6.webp",
+      "answer": 1,
+      "searchText": " 出席者は皆会議に積極的に参加し、意見を（ ）交換し合った。\nかっぱつ えんまん きびん のうこう\n１ 活発に ２ 円満に ３ 機敏に ４ 濃厚に",
+      "knowledge": {
+        "term": "活発",
+        "reading": "かっぱつ",
+        "meaning": "活跃、积极",
+        "tip": "活発に意見を交換する。円満是圆满融洽，機敏是动作敏捷。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-22",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 22,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-22.webp",
+      "pageImage": "assets/N2-V-page-6.webp",
+      "answer": 4,
+      "searchText": " 列に並んでいたら、私の前に強引に（ ）きた人がいて、嫌な気分になった。\n１ 当てはまって ２ 付け加えて ３ 行き着いて ４ 割り込んで",
+      "knowledge": {
+        "term": "割り込む",
+        "reading": "わりこむ",
+        "meaning": "插入、插队",
+        "tip": "列に割り込む／話に割り込む。行き着く是到达，付け加える是补充。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-23",
+      "level": "N2",
+      "section": "vocab",
+      "group": 5,
+      "number": 23,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-23.webp",
+      "pageImage": "assets/N2-V-page-7.webp",
+      "answer": 1,
+      "searchText": "たかはし\n 高橋さんはとても愉快な人だ。\n１ 面白い ２ おしゃれな ３ 親切な ４ かわいい",
+      "knowledge": {
+        "term": "愉快",
+        "reading": "ゆかい",
+        "meaning": "愉快、有趣",
+        "tip": "愉快な人可指有趣的人，近义为面白い。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-24",
+      "level": "N2",
+      "section": "vocab",
+      "group": 5,
+      "number": 24,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-24.webp",
+      "pageImage": "assets/N2-V-page-7.webp",
+      "answer": 4,
+      "searchText": " それは確かにやむをえないことだと思う。\n１ もったいない ２ なさけない ３ つまらない ４ しかたない",
+      "knowledge": {
+        "term": "やむをえない",
+        "reading": "",
+        "meaning": "不得已、没有办法",
+        "tip": "止むを得ない。近义为しかたがない；不是无聊或不值得。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-25",
+      "level": "N2",
+      "section": "vocab",
+      "group": 5,
+      "number": 25,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-25.webp",
+      "pageImage": "assets/N2-V-page-7.webp",
+      "answer": 3,
+      "searchText": " 少し息抜きしたほうがいいよ。\n１ 待った ２ 急いだ ３ 休んだ ４ 働いた",
+      "knowledge": {
+        "term": "息抜き",
+        "reading": "いきぬき",
+        "meaning": "稍作休息、放松",
+        "tip": "息抜きする＝休んで気分を変える。并非单指呼吸动作。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-26",
+      "level": "N2",
+      "section": "vocab",
+      "group": 5,
+      "number": 26,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-26.webp",
+      "pageImage": "assets/N2-V-page-7.webp",
+      "answer": 4,
+      "searchText": " 今日はとてもついていた。\n１ 気分が悪かった ２ 運が悪かった\n３ 気分がよかった ４ 運がよかった",
+      "knowledge": {
+        "term": "ついている",
+        "reading": "",
+        "meaning": "走运",
+        "tip": "表示运气好；与運がいい接近，不仅仅是心情好。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-27",
+      "level": "N2",
+      "section": "vocab",
+      "group": 5,
+      "number": 27,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-27.webp",
+      "pageImage": "assets/N2-V-page-7.webp",
+      "answer": 2,
+      "searchText": "ことばづか\n 私はつねに言葉遣いに気をつけている。\n１ 当然 ２ いつも ３ 特に ４ できるだけ",
+      "knowledge": {
+        "term": "常に",
+        "reading": "つねに",
+        "meaning": "总是、一直",
+        "tip": "近义为いつも。できるだけ是尽可能，当然是理所当然。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-28",
+      "level": "N2",
+      "section": "vocab",
+      "group": 6,
+      "number": 28,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-28.webp",
+      "pageImage": "assets/N2-V-page-8.webp",
+      "answer": 3,
+      "searchText": " 延長\n１ 悪天候で列車が運転をやめたため、旅行の出発が三日後に延長された。\n２ 初めの設計では２階建てだったが、３階建ての家に延長することにした。\n３ 予定の時間内に結論が出ず、会議が１時間延長されることになった。\n４ 電車の中で居眠りをして、降りる駅を一駅延長してしまった。",
+      "knowledge": {
+        "term": "延長",
+        "reading": "えんちょう",
+        "meaning": "延长时间或长度",
+        "tip": "会議を延長する。把出发日期推后用延期，坐过站用乗り過ごす。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-29",
+      "level": "N2",
+      "section": "vocab",
+      "group": 6,
+      "number": 29,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-29.webp",
+      "pageImage": "assets/N2-V-page-8.webp",
+      "answer": 4,
+      "searchText": " さびる\nなま くさ\n１ 暑いところに生ものをずっと置いておいたら、さびて臭くなった。\nにご\n２ 昨夜は雨が相当降ったらしく、普段はきれいな川の水がさびて濁っている。\nはち\n３ 鉢に植えた植物に水をやるのを忘れていたら、花がさびてしまった。\nぼう\n４ この鉄の棒はずっと家の外に置いてあったので、さびて茶色くなっている。",
+      "knowledge": {
+        "term": "さびる",
+        "reading": "",
+        "meaning": "生锈",
+        "tip": "金属がさびる。食物腐败用腐る，花枯萎用枯れる。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-30",
+      "level": "N2",
+      "section": "vocab",
+      "group": 6,
+      "number": 30,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-30.webp",
+      "pageImage": "assets/N2-V-page-8.webp",
+      "answer": 1,
+      "searchText": " 目上\nきんちょう\n１ 勉強会に参加した社員がすべて目上だったので、新人の私はとても緊張した。\nおく\n２ この店で一番値段が高く目上の商品は、店の奥にある棚に並べられていた。\nすずき\n３ 高校時代、鈴木さんはとても優秀で、成績はいつも学年で目上だった。\nいとう\n４ あの若さで金賞を受賞した伊藤さんは、本当に目上の人だと思う。",
+      "knowledge": {
+        "term": "目上",
+        "reading": "めうえ",
+        "meaning": "辈分或地位在自己之上的人",
+        "tip": "用于人际关系；不能表示商品价高、成绩优秀或才能突出。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-31",
+      "level": "N2",
+      "section": "vocab",
+      "group": 6,
+      "number": 31,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-31.webp",
+      "pageImage": "assets/N2-V-page-8.webp",
+      "answer": 4,
+      "searchText": " 大げさ\n１ 息子の誕生日に料理を作りすぎてしまい、大げさに余ってしまった。\n２ 天気予報によると、明日は今日より大げさに気温が下がるらしい。\nほ\n３ 努力した結果、試験の成績が大げさに伸びて、先生に褒められた。\n４ あの人は小さなことを大げさに言うので、そのまま信じないほうがいい。",
+      "knowledge": {
+        "term": "大げさ",
+        "reading": "おおげさ",
+        "meaning": "夸张、小题大做",
+        "tip": "大げさに言う。只表示数量大或变化大时应改用大量、大幅等。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-32",
+      "level": "N2",
+      "section": "vocab",
+      "group": 6,
+      "number": 32,
+      "sourceId": "jlpt-2018-N2-V",
+      "image": "assets/N2-32.webp",
+      "pageImage": "assets/N2-V-page-8.webp",
+      "answer": 2,
+      "searchText": " 反省\nげんこう きんちょう\n１ 発表の原稿を全部覚えたのに、緊張のせいでどんなに反省しても全く思い出せない。\nめいわく\n２ 今回の企画では、私の準備不足で周りに迷惑をかけたことをとても反省しています。\nなつ\n３ 祖父はいつも若いころの思い出を懐かしそうに反省して私に話してくれる。\n４ この機械の使い方を忘れないように、もう一度最初から反省しておきましょう。",
+      "knowledge": {
+        "term": "反省",
+        "reading": "はんせい",
+        "meaning": "反省自己的行为",
+        "tip": "反省强调检讨不足；想起用思い出す，怀念用懐かしむ，复习用復習する。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-33",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 33,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-33.webp",
+      "pageImage": "assets/N2-G-page-1.webp",
+      "answer": 1,
+      "searchText": "てい\n 卒業論文がなかなか書けなくて、一時は（ ）かけたが、何とか今日無事に提\nしゅつ\n出することができた。\n１ あきらめ ２ あきらめて ３ あきらめる ４ あきらめた",
+      "knowledge": {
+        "term": "〜かける",
+        "reading": "",
+        "meaning": "开始……尚未完成／差点……",
+        "tip": "动词ます形词干＋かける。あきらめかけた：一度差点放弃。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-34",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 34,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-34.webp",
+      "pageImage": "assets/N2-G-page-1.webp",
+      "answer": 1,
+      "searchText": " 子どものころ、母（ ）作ったハンバーグが大好きで、よく作ってもらった。\n１ の ２ との ３ によって ４ にとって",
+      "knowledge": {
+        "term": "主语的 が／の 互换",
+        "reading": "",
+        "meaning": "修饰名词的从句中の可标主语",
+        "tip": "母の作った料理＝母が作った料理；并非所有が都能替换为の。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-35",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 35,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-35.webp",
+      "pageImage": "assets/N2-G-page-1.webp",
+      "answer": 2,
+      "searchText": "ぼうだい\n 多様な情報があふれる現代社会（ ）、大切なのは、膨大な情報の中から、自分\nに必要な情報を選ぶ力である。\n１ に加えて ２ において ３ を基にして ４ を込めて",
+      "knowledge": {
+        "term": "〜において",
+        "reading": "",
+        "meaning": "在……场合、领域、时代",
+        "tip": "名词＋において。书面语，相当于范围意义的で；现代社会就是所谈范围。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-36",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 36,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-36.webp",
+      "pageImage": "assets/N2-G-page-1.webp",
+      "answer": 3,
+      "searchText": " 作文が得意な友達に「どうやったらうまくなれるの？」と聞いたら、「たくさん書け\nば（ ）うまくなるよ。」と言われた。\n１ 必ずしも ２ たとえ ３ そのうち ４ さっき",
+      "knowledge": {
+        "term": "そのうち",
+        "reading": "",
+        "meaning": "过些时候、迟早",
+        "tip": "表示将来某个时候；必ずしも通常配否定，不表示一定会。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-37",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 37,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-37.webp",
+      "pageImage": "assets/N2-G-page-1.webp",
+      "answer": 1,
+      "searchText": " 看護師の仕事は夜勤もあって大変だが、自分でこの仕事を選んだ（ ）、がん\nばって続けたいと思う。\n１ 以上 ２ とたん ３ あげくに ４ かのようで",
+      "knowledge": {
+        "term": "〜以上（は）",
+        "reading": "",
+        "meaning": "既然……就……",
+        "tip": "接普通形等，后常接决心、义务或判断。既然自己选择，就努力坚持。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-38",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 38,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-38.webp",
+      "pageImage": "assets/N2-G-page-1.webp",
+      "answer": 4,
+      "searchText": " （内線電話で）\nやまだ やまだ\n山田「はい、山田です。」\nきむら きむら なかがわ\n木村「受付の木村ですが、Ｘ社の中川様が（ ）。」\nやまだ\n山田「わかりました。すぐ行きます。」\n１ 伺いました ２ お目にかかりました\n３ ございました ４ お越しになりました",
+      "knowledge": {
+        "term": "お越しになる",
+        "reading": "おこしになる",
+        "meaning": "来／去的尊敬表达",
+        "tip": "向同事报告客人到来可用お越しになりました。伺う是己方动作的谦让语。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-39",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 39,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-39.webp",
+      "pageImage": "assets/N2-G-page-2.webp",
+      "answer": 2,
+      "searchText": " 人は一生のうちどのくらい寝ているのでしょうか。仮に一日８時間寝て、８０歳まで\n生きる（ ）。すると、睡眠時間は約２３３６,００時間で、約２７年寝ている計算になり\nます。\n１ となりました ２ とします\n３ とされていました ４ と見られます",
+      "knowledge": {
+        "term": "〜とする",
+        "reading": "",
+        "meaning": "假定……、设为……",
+        "tip": "普通形＋とする。计算前设定条件：仮に〜とします。とされる是被认为。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-40",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 40,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-40.webp",
+      "pageImage": "assets/N2-G-page-2.webp",
+      "answer": 2,
+      "searchText": "だれ\n 夢を語る（ ）誰でもできるが、実現させるのは簡単なことではない。\n１ だけでは ２ だけなら ３ ためしか ４ ためには",
+      "knowledge": {
+        "term": "〜だけなら",
+        "reading": "",
+        "meaning": "如果仅仅……的话",
+        "tip": "语るだけなら誰でもできる：只说的话谁都会。与后文实际实现困难形成对比。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-41",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 41,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-41.webp",
+      "pageImage": "assets/N2-G-page-2.webp",
+      "answer": 3,
+      "searchText": " （説明書で）\nエアコンを掃除するときは、安全上、必ずコンセントを（ ）してください。\n１ 抜いたことを ２ 抜いたことが ３ 抜いてからに ４ 抜いてからは",
+      "knowledge": {
+        "term": "〜てからにする",
+        "reading": "",
+        "meaning": "先……，之后再……",
+        "tip": "先拔插头再清扫。コンセントを抜いてからにしてください中的にする表示决定时机。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-42",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 42,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-42.webp",
+      "pageImage": "assets/N2-G-page-2.webp",
+      "answer": 4,
+      "searchText": " 私はスピーチが苦手なのに、今度友達の結婚パーティーでスピーチを（ ）、\n困っている。\n１ しにくくて ２ してほしくて\n３ させてみたくて ４ することになってしまって",
+      "knowledge": {
+        "term": "〜ことになる",
+        "reading": "",
+        "meaning": "被决定要……、事情变成……",
+        "tip": "常用于外部安排；てしまう补充意外、为难等感受。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-43",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 43,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-43.webp",
+      "pageImage": "assets/N2-G-page-2.webp",
+      "answer": 3,
+      "searchText": " せっかく、夕日がきれいなことで有名なＡ海岸に来たのに、急に雨が降り出した。\nどうも夕日は（ ）。\n１ 見えてもしかたない ２ 見られないことだった\n３ 見られそうにない ４ 見えないことがあった",
+      "knowledge": {
+        "term": "〜そうにない",
+        "reading": "",
+        "meaning": "看来不可能……",
+        "tip": "动词ます形词干＋そうにない。見られそうにない：看样子没法看到。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-44",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 44,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-44.webp",
+      "pageImage": "assets/N2-G-page-2.webp",
+      "answer": 4,
+      "searchText": "やまかわ なかむら\n 山川「中村くん、毎日ジョギング（ ）？」\nなかむら\n中村「うん、そうなんだよ。」\nやまかわ\n山川「実は、ぼくもなんだよ。走るっていいよね。」\n１ しない ２ しててもいい ３ しちゃえば ４ してるんだって",
+      "knowledge": {
+        "term": "〜んだって",
+        "reading": "",
+        "meaning": "听说……；转述确认",
+        "tip": "口语でのしてる＝している；してるんだって？用上扬语调确认听来的消息。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-45",
+      "level": "N2",
+      "section": "grammar",
+      "group": 8,
+      "number": 45,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-45.webp",
+      "pageImage": "assets/N2-G-page-3.webp",
+      "answer": 3,
+      "searchText": " 結婚生活を送る ★ 、相手への思いやりの気持ちを\n持つことだと思う。\n１ うえで ２ といえば ３ 大切か ４ 何が",
+      "knowledge": {
+        "term": "〜うえで",
+        "reading": "",
+        "meaning": "在……方面／在……过程中",
+        "tip": "結婚生活を送るうえで说明讨论范围，再连接何が大切かという嵌入疑问。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-46",
+      "level": "N2",
+      "section": "grammar",
+      "group": 8,
+      "number": 46,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-46.webp",
+      "pageImage": "assets/N2-G-page-3.webp",
+      "answer": 4,
+      "searchText": "しゅうしょく こわ\n 就職したときに ★ とうとう壊れたので、買い換\nえることにした。\n１ ずっと ２ 買って以来 ３ かばんが ４ 使っていた",
+      "knowledge": {
+        "term": "〜て以来",
+        "reading": "いらい",
+        "meaning": "自从……以来一直……",
+        "tip": "买下后一直在用；先连成買って以来ずっと使っていた，再修饰かばん。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-47",
+      "level": "N2",
+      "section": "grammar",
+      "group": 8,
+      "number": 47,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-47.webp",
+      "pageImage": "assets/N2-G-page-3.webp",
+      "answer": 1,
+      "searchText": "みりょく\n 登山には不思議な魅力がある。登っているときはこんなに\n★ なぜかまた登りたくなる。\n１ 思うのに ２ 二度としたくないと\n３ 苦しいことは ４ 山を下りて何日かすると",
+      "knowledge": {
+        "term": "〜と思うのに",
+        "reading": "",
+        "meaning": "明明觉得……却……",
+        "tip": "先连成苦しいことは二度としたくないと思うのに，再与后来又想登山对比。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-48",
+      "level": "N2",
+      "section": "grammar",
+      "group": 8,
+      "number": 48,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-48.webp",
+      "pageImage": "assets/N2-G-page-4.webp",
+      "answer": 2,
+      "searchText": "ちょうこくか かわむら ちょうこく\n 彫刻家川村たけるが作る動物の彫刻作品は、形はシンプル\n★ 生命力にあふれている。\n１ 動き出し ２ そうな ３ ながら ４ 今にも",
+      "knowledge": {
+        "term": "〜ながら／今にも〜そうだ",
+        "reading": "",
+        "meaning": "虽然……；眼看就要……",
+        "tip": "シンプルながら是逆接；今にも動き出しそうな把似乎要动起来的状态接到生命力。"
+      },
+      "type": "official"
+    },
+    {
+      "id": "official-2018-N2-49",
+      "level": "N2",
+      "section": "grammar",
+      "group": 8,
+      "number": 49,
+      "sourceId": "jlpt-2018-N2-G",
+      "image": "assets/N2-49.webp",
+      "pageImage": "assets/N2-G-page-4.webp",
+      "answer": 3,
+      "searchText": "じょうきょう\n ビジネスで成功できる人とできない人との違いは、どんなに大変な状況でもあきら\nめずに ★ と思う。\n１ かどうか ２ 取り組める ３ にある ４ 最後まで",
+      "knowledge": {
+        "term": "〜かどうかにある",
+        "reading": "",
+        "meaning": "关键在于是否……",
+        "tip": "最后まで取り組めるかどうか是一个整体，用にある表示差异的所在。"
+      },
+      "type": "official"
+    }
+  ],
+  "sources": [
+    {
+      "id": "jlpt-2018-N1-V",
+      "title": "2018 官方问题集第二集 N1 文字・語彙",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N1V.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2018/pdf/N1answer.pdf",
+      "answerFile": "sources/2018-N1-answer.pdf",
+      "sha256": "c315b971250bf68667a8c38d534272c8e3c0bdb4caa517477fcc572b75c01e0d"
+    },
+    {
+      "id": "jlpt-2018-N1-G",
+      "title": "2018 官方问题集第二集 N1 文法（句子与排序）",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N1G.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2018/pdf/N1answer.pdf",
+      "answerFile": "sources/2018-N1-answer.pdf",
+      "sha256": "7c5e73d4f4a89444b1f98679a99a98a953c0b6ae0dca9eeb09815868b152ea83"
+    },
+    {
+      "id": "jlpt-2018-N2-V",
+      "title": "2018 官方问题集第二集 N2 文字・語彙",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N2V.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2018/pdf/N2answer.pdf",
+      "answerFile": "sources/2018-N2-answer.pdf",
+      "sha256": "c16247e1e6dc3c8b06dc0caf0ea94b7201628c3032c18bb2cc2ac0b1e69f79d6"
+    },
+    {
+      "id": "jlpt-2018-N2-G",
+      "title": "2018 官方问题集第二集 N2 文法（句子与排序）",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N2G.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2018/pdf/N2answer.pdf",
+      "answerFile": "sources/2018-N2-answer.pdf",
+      "sha256": "b48d6e9002c981ca3d4250db4d0961a97d53145402b5eca058c2eb6fe75185e6"
+    }
+  ]
+}

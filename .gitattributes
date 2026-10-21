@@ -1,0 +1,2 @@
+# Keep portable files byte-identical across Windows and other systems.
+* -text

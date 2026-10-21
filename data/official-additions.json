@@ -1,0 +1,2547 @@
+{
+  "version": 1,
+  "id": "official-n2-2012-2018-addition",
+  "questions": [
+    {
+      "id": "official-2012-N2-1",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 1,
+      "number": 1,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-03.webp",
+      "pageImage": "assets/official/2012-N2/V-page-03.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-03.webp"
+      ],
+      "pages": [
+        3
+      ],
+      "questionPage": 3,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第1题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-2",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 1,
+      "number": 2,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-03.webp",
+      "pageImage": "assets/official/2012-N2/V-page-03.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-03.webp"
+      ],
+      "pages": [
+        3
+      ],
+      "questionPage": 3,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第2题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-3",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 1,
+      "number": 3,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-03.webp",
+      "pageImage": "assets/official/2012-N2/V-page-03.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-03.webp"
+      ],
+      "pages": [
+        3
+      ],
+      "questionPage": 3,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第3题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-4",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 1,
+      "number": 4,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-03.webp",
+      "pageImage": "assets/official/2012-N2/V-page-03.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-03.webp"
+      ],
+      "pages": [
+        3
+      ],
+      "questionPage": 3,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第4题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-5",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 1,
+      "number": 5,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-03.webp",
+      "pageImage": "assets/official/2012-N2/V-page-03.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-03.webp"
+      ],
+      "pages": [
+        3
+      ],
+      "questionPage": 3,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第5题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-6",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 2,
+      "number": 6,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-04.webp",
+      "pageImage": "assets/official/2012-N2/V-page-04.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-04.webp"
+      ],
+      "pages": [
+        4
+      ],
+      "questionPage": 4,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第6题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-7",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 2,
+      "number": 7,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-04.webp",
+      "pageImage": "assets/official/2012-N2/V-page-04.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-04.webp"
+      ],
+      "pages": [
+        4
+      ],
+      "questionPage": 4,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第7题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-8",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 2,
+      "number": 8,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-04.webp",
+      "pageImage": "assets/official/2012-N2/V-page-04.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-04.webp"
+      ],
+      "pages": [
+        4
+      ],
+      "questionPage": 4,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第8题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-9",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 2,
+      "number": 9,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-04.webp",
+      "pageImage": "assets/official/2012-N2/V-page-04.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-04.webp"
+      ],
+      "pages": [
+        4
+      ],
+      "questionPage": 4,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第9题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-10",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 2,
+      "number": 10,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-04.webp",
+      "pageImage": "assets/official/2012-N2/V-page-04.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-04.webp"
+      ],
+      "pages": [
+        4
+      ],
+      "questionPage": 4,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第10题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-11",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 3,
+      "number": 11,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-05.webp",
+      "pageImage": "assets/official/2012-N2/V-page-05.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-05.webp"
+      ],
+      "pages": [
+        5
+      ],
+      "questionPage": 5,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第11题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-12",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 3,
+      "number": 12,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-05.webp",
+      "pageImage": "assets/official/2012-N2/V-page-05.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-05.webp"
+      ],
+      "pages": [
+        5
+      ],
+      "questionPage": 5,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第12题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-13",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 3,
+      "number": 13,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-05.webp",
+      "pageImage": "assets/official/2012-N2/V-page-05.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-05.webp"
+      ],
+      "pages": [
+        5
+      ],
+      "questionPage": 5,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第13题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-14",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 3,
+      "number": 14,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-05.webp",
+      "pageImage": "assets/official/2012-N2/V-page-05.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-05.webp"
+      ],
+      "pages": [
+        5
+      ],
+      "questionPage": 5,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第14题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-15",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 3,
+      "number": 15,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-05.webp",
+      "pageImage": "assets/official/2012-N2/V-page-05.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-05.webp"
+      ],
+      "pages": [
+        5
+      ],
+      "questionPage": 5,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第15题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-16",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 16,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-06.webp",
+      "pageImage": "assets/official/2012-N2/V-page-06.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-06.webp"
+      ],
+      "pages": [
+        6
+      ],
+      "questionPage": 6,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第16题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-17",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 17,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-06.webp",
+      "pageImage": "assets/official/2012-N2/V-page-06.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-06.webp"
+      ],
+      "pages": [
+        6
+      ],
+      "questionPage": 6,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第17题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-18",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 18,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-06.webp",
+      "pageImage": "assets/official/2012-N2/V-page-06.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-06.webp"
+      ],
+      "pages": [
+        6
+      ],
+      "questionPage": 6,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第18题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-19",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 19,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-06.webp",
+      "pageImage": "assets/official/2012-N2/V-page-06.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-06.webp"
+      ],
+      "pages": [
+        6
+      ],
+      "questionPage": 6,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第19题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-20",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 20,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-06.webp",
+      "pageImage": "assets/official/2012-N2/V-page-06.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-06.webp"
+      ],
+      "pages": [
+        6
+      ],
+      "questionPage": 6,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第20题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-21",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 21,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-06.webp",
+      "pageImage": "assets/official/2012-N2/V-page-06.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-06.webp"
+      ],
+      "pages": [
+        6
+      ],
+      "questionPage": 6,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第21题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-22",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 4,
+      "number": 22,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-06.webp",
+      "pageImage": "assets/official/2012-N2/V-page-06.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-06.webp"
+      ],
+      "pages": [
+        6
+      ],
+      "questionPage": 6,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第22题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-23",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 5,
+      "number": 23,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-07.webp",
+      "pageImage": "assets/official/2012-N2/V-page-07.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-07.webp"
+      ],
+      "pages": [
+        7
+      ],
+      "questionPage": 7,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第23题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-24",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 5,
+      "number": 24,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-07.webp",
+      "pageImage": "assets/official/2012-N2/V-page-07.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-07.webp"
+      ],
+      "pages": [
+        7
+      ],
+      "questionPage": 7,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第24题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-25",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 5,
+      "number": 25,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-07.webp",
+      "pageImage": "assets/official/2012-N2/V-page-07.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-07.webp"
+      ],
+      "pages": [
+        7
+      ],
+      "questionPage": 7,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第25题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-26",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 5,
+      "number": 26,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-07.webp",
+      "pageImage": "assets/official/2012-N2/V-page-07.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-07.webp"
+      ],
+      "pages": [
+        7
+      ],
+      "questionPage": 7,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第26题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-27",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 5,
+      "number": 27,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-07.webp",
+      "pageImage": "assets/official/2012-N2/V-page-07.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-07.webp"
+      ],
+      "pages": [
+        7
+      ],
+      "questionPage": 7,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第27题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-28",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 6,
+      "number": 28,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-08.webp",
+      "pageImage": "assets/official/2012-N2/V-page-08.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-08.webp"
+      ],
+      "pages": [
+        8
+      ],
+      "questionPage": 8,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第28题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-29",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 6,
+      "number": 29,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-08.webp",
+      "pageImage": "assets/official/2012-N2/V-page-08.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-08.webp"
+      ],
+      "pages": [
+        8
+      ],
+      "questionPage": 8,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第29题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-30",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 6,
+      "number": 30,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-08.webp",
+      "pageImage": "assets/official/2012-N2/V-page-08.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-08.webp"
+      ],
+      "pages": [
+        8
+      ],
+      "questionPage": 8,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第30题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-31",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 6,
+      "number": 31,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-08.webp",
+      "pageImage": "assets/official/2012-N2/V-page-08.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-08.webp"
+      ],
+      "pages": [
+        8
+      ],
+      "questionPage": 8,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第31题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-32",
+      "type": "official",
+      "level": "N2",
+      "section": "vocab",
+      "group": 6,
+      "number": 32,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-V",
+      "image": "assets/official/2012-N2/V-page-08.webp",
+      "pageImage": "assets/official/2012-N2/V-page-08.webp",
+      "images": [
+        "assets/official/2012-N2/V-page-08.webp"
+      ],
+      "pages": [
+        8
+      ],
+      "questionPage": 8,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第32题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-33",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 33,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-01.webp",
+      "pageImage": "assets/official/2012-N2/G-page-01.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-01.webp"
+      ],
+      "pages": [
+        1
+      ],
+      "questionPage": 1,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第33题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-34",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 34,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-01.webp",
+      "pageImage": "assets/official/2012-N2/G-page-01.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-01.webp"
+      ],
+      "pages": [
+        1
+      ],
+      "questionPage": 1,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第34题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-35",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 35,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-01.webp",
+      "pageImage": "assets/official/2012-N2/G-page-01.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-01.webp"
+      ],
+      "pages": [
+        1
+      ],
+      "questionPage": 1,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第35题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-36",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 36,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-01.webp",
+      "pageImage": "assets/official/2012-N2/G-page-01.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-01.webp"
+      ],
+      "pages": [
+        1
+      ],
+      "questionPage": 1,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第36题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-37",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 37,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-01.webp",
+      "pageImage": "assets/official/2012-N2/G-page-01.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-01.webp"
+      ],
+      "pages": [
+        1
+      ],
+      "questionPage": 1,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第37题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-38",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 38,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-01.webp",
+      "pageImage": "assets/official/2012-N2/G-page-01.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-01.webp"
+      ],
+      "pages": [
+        1
+      ],
+      "questionPage": 1,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第38题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-39",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 39,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-01.webp",
+      "pageImage": "assets/official/2012-N2/G-page-01.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-01.webp"
+      ],
+      "pages": [
+        1
+      ],
+      "questionPage": 1,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第39题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-40",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 40,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-02.webp",
+      "pageImage": "assets/official/2012-N2/G-page-02.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-02.webp"
+      ],
+      "pages": [
+        2
+      ],
+      "questionPage": 2,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第40题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-41",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 41,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-02.webp",
+      "pageImage": "assets/official/2012-N2/G-page-02.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-02.webp"
+      ],
+      "pages": [
+        2
+      ],
+      "questionPage": 2,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第41题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-42",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 42,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-02.webp",
+      "pageImage": "assets/official/2012-N2/G-page-02.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-02.webp"
+      ],
+      "pages": [
+        2
+      ],
+      "questionPage": 2,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第42题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-43",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 43,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-02.webp",
+      "pageImage": "assets/official/2012-N2/G-page-02.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-02.webp"
+      ],
+      "pages": [
+        2
+      ],
+      "questionPage": 2,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第43题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-44",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 7,
+      "number": 44,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-02.webp",
+      "pageImage": "assets/official/2012-N2/G-page-02.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-02.webp"
+      ],
+      "pages": [
+        2
+      ],
+      "questionPage": 2,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第44题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-45",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 8,
+      "number": 45,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-03.webp",
+      "pageImage": "assets/official/2012-N2/G-page-03.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-03.webp"
+      ],
+      "pages": [
+        3
+      ],
+      "questionPage": 3,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第45题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-46",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 8,
+      "number": 46,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-03.webp",
+      "pageImage": "assets/official/2012-N2/G-page-03.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-03.webp"
+      ],
+      "pages": [
+        3
+      ],
+      "questionPage": 3,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第46题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-47",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 8,
+      "number": 47,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-04.webp",
+      "pageImage": "assets/official/2012-N2/G-page-04.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-04.webp"
+      ],
+      "pages": [
+        4
+      ],
+      "questionPage": 4,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第47题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-48",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 8,
+      "number": 48,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-04.webp",
+      "pageImage": "assets/official/2012-N2/G-page-04.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-04.webp"
+      ],
+      "pages": [
+        4
+      ],
+      "questionPage": 4,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第48题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-49",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 8,
+      "number": 49,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-04.webp",
+      "pageImage": "assets/official/2012-N2/G-page-04.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-04.webp"
+      ],
+      "pages": [
+        4
+      ],
+      "questionPage": 4,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第49题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-50",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 9,
+      "number": 50,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-06.webp",
+      "pageImage": "assets/official/2012-N2/G-page-07.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-06.webp",
+        "assets/official/2012-N2/G-page-07.webp"
+      ],
+      "pages": [
+        6,
+        7
+      ],
+      "questionPage": 7,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第50题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-51",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 9,
+      "number": 51,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-06.webp",
+      "pageImage": "assets/official/2012-N2/G-page-07.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-06.webp",
+        "assets/official/2012-N2/G-page-07.webp"
+      ],
+      "pages": [
+        6,
+        7
+      ],
+      "questionPage": 7,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第51题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-52",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 9,
+      "number": 52,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-06.webp",
+      "pageImage": "assets/official/2012-N2/G-page-07.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-06.webp",
+        "assets/official/2012-N2/G-page-07.webp"
+      ],
+      "pages": [
+        6,
+        7
+      ],
+      "questionPage": 7,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第52题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-53",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 9,
+      "number": 53,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-06.webp",
+      "pageImage": "assets/official/2012-N2/G-page-07.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-06.webp",
+        "assets/official/2012-N2/G-page-07.webp"
+      ],
+      "pages": [
+        6,
+        7
+      ],
+      "questionPage": 7,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第53题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-54",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 9,
+      "number": 54,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-G",
+      "image": "assets/official/2012-N2/G-page-06.webp",
+      "pageImage": "assets/official/2012-N2/G-page-07.webp",
+      "images": [
+        "assets/official/2012-N2/G-page-06.webp",
+        "assets/official/2012-N2/G-page-07.webp"
+      ],
+      "pages": [
+        6,
+        7
+      ],
+      "questionPage": 7,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2012 官方试题集 N2 第54题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-55",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 10,
+      "number": 55,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-01.webp",
+      "pageImage": "assets/official/2012-N2/R-page-01.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-01.webp"
+      ],
+      "pages": [
+        1
+      ],
+      "questionPage": 1,
+      "answer": 3,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第55题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-56",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 10,
+      "number": 56,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-02.webp",
+      "pageImage": "assets/official/2012-N2/R-page-02.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-02.webp"
+      ],
+      "pages": [
+        2
+      ],
+      "questionPage": 2,
+      "answer": 2,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第56题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-57",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 10,
+      "number": 57,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-03.webp",
+      "pageImage": "assets/official/2012-N2/R-page-03.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-03.webp"
+      ],
+      "pages": [
+        3
+      ],
+      "questionPage": 3,
+      "answer": 2,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第57题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-58",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 10,
+      "number": 58,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-04.webp",
+      "pageImage": "assets/official/2012-N2/R-page-04.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-04.webp"
+      ],
+      "pages": [
+        4
+      ],
+      "questionPage": 4,
+      "answer": 1,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第58题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-59",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 10,
+      "number": 59,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-05.webp",
+      "pageImage": "assets/official/2012-N2/R-page-05.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-05.webp"
+      ],
+      "pages": [
+        5
+      ],
+      "questionPage": 5,
+      "answer": 2,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第59题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-60",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 60,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-07.webp",
+      "pageImage": "assets/official/2012-N2/R-page-08.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-07.webp",
+        "assets/official/2012-N2/R-page-08.webp"
+      ],
+      "pages": [
+        7,
+        8
+      ],
+      "questionPage": 8,
+      "answer": 3,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第60题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-61",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 61,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-07.webp",
+      "pageImage": "assets/official/2012-N2/R-page-08.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-07.webp",
+        "assets/official/2012-N2/R-page-08.webp"
+      ],
+      "pages": [
+        7,
+        8
+      ],
+      "questionPage": 8,
+      "answer": 4,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第61题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-62",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 62,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-07.webp",
+      "pageImage": "assets/official/2012-N2/R-page-08.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-07.webp",
+        "assets/official/2012-N2/R-page-08.webp"
+      ],
+      "pages": [
+        7,
+        8
+      ],
+      "questionPage": 8,
+      "answer": 4,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第62题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-63",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 63,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-09.webp",
+      "pageImage": "assets/official/2012-N2/R-page-10.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-09.webp",
+        "assets/official/2012-N2/R-page-10.webp"
+      ],
+      "pages": [
+        9,
+        10
+      ],
+      "questionPage": 10,
+      "answer": 3,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第63题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-64",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 64,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-09.webp",
+      "pageImage": "assets/official/2012-N2/R-page-10.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-09.webp",
+        "assets/official/2012-N2/R-page-10.webp"
+      ],
+      "pages": [
+        9,
+        10
+      ],
+      "questionPage": 10,
+      "answer": 1,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第64题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-65",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 65,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-09.webp",
+      "pageImage": "assets/official/2012-N2/R-page-10.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-09.webp",
+        "assets/official/2012-N2/R-page-10.webp"
+      ],
+      "pages": [
+        9,
+        10
+      ],
+      "questionPage": 10,
+      "answer": 4,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第65题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-66",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 66,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-11.webp",
+      "pageImage": "assets/official/2012-N2/R-page-12.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-11.webp",
+        "assets/official/2012-N2/R-page-12.webp"
+      ],
+      "pages": [
+        11,
+        12
+      ],
+      "questionPage": 12,
+      "answer": 3,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第66题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-67",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 67,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-11.webp",
+      "pageImage": "assets/official/2012-N2/R-page-12.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-11.webp",
+        "assets/official/2012-N2/R-page-12.webp"
+      ],
+      "pages": [
+        11,
+        12
+      ],
+      "questionPage": 12,
+      "answer": 2,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第67题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-68",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 68,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-11.webp",
+      "pageImage": "assets/official/2012-N2/R-page-12.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-11.webp",
+        "assets/official/2012-N2/R-page-12.webp"
+      ],
+      "pages": [
+        11,
+        12
+      ],
+      "questionPage": 12,
+      "answer": 1,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第68题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-69",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 12,
+      "number": 69,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-13.webp",
+      "pageImage": "assets/official/2012-N2/R-page-14.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-13.webp",
+        "assets/official/2012-N2/R-page-14.webp"
+      ],
+      "pages": [
+        13,
+        14
+      ],
+      "questionPage": 14,
+      "answer": 1,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第69题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-70",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 12,
+      "number": 70,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-13.webp",
+      "pageImage": "assets/official/2012-N2/R-page-14.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-13.webp",
+        "assets/official/2012-N2/R-page-14.webp"
+      ],
+      "pages": [
+        13,
+        14
+      ],
+      "questionPage": 14,
+      "answer": 3,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第70题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-71",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 13,
+      "number": 71,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-15.webp",
+      "pageImage": "assets/official/2012-N2/R-page-16.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-15.webp",
+        "assets/official/2012-N2/R-page-16.webp"
+      ],
+      "pages": [
+        15,
+        16
+      ],
+      "questionPage": 16,
+      "answer": 2,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第71题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-72",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 13,
+      "number": 72,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-15.webp",
+      "pageImage": "assets/official/2012-N2/R-page-16.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-15.webp",
+        "assets/official/2012-N2/R-page-16.webp"
+      ],
+      "pages": [
+        15,
+        16
+      ],
+      "questionPage": 16,
+      "answer": 4,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第72题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-73",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 13,
+      "number": 73,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-15.webp",
+      "pageImage": "assets/official/2012-N2/R-page-16.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-15.webp",
+        "assets/official/2012-N2/R-page-16.webp"
+      ],
+      "pages": [
+        15,
+        16
+      ],
+      "questionPage": 16,
+      "answer": 4,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第73题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-74",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 14,
+      "number": 74,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-17.webp",
+      "pageImage": "assets/official/2012-N2/R-page-17.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-17.webp",
+        "assets/official/2012-N2/R-page-18.webp"
+      ],
+      "pages": [
+        17,
+        18
+      ],
+      "questionPage": 17,
+      "answer": 4,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第74题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2012-N2-75",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 14,
+      "number": 75,
+      "exam": "2012",
+      "sourceId": "jlpt-workbook-2012-N2-R",
+      "image": "assets/official/2012-N2/R-page-17.webp",
+      "pageImage": "assets/official/2012-N2/R-page-17.webp",
+      "images": [
+        "assets/official/2012-N2/R-page-17.webp",
+        "assets/official/2012-N2/R-page-18.webp"
+      ],
+      "pages": [
+        17,
+        18
+      ],
+      "questionPage": 17,
+      "answer": 1,
+      "answerPage": 2,
+      "searchText": "2012 官方试题集 N2 第75题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-50",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 9,
+      "number": 50,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-G",
+      "image": "assets/official/2018-N2/G-page-05.webp",
+      "pageImage": "assets/official/2018-N2/G-page-06.webp",
+      "images": [
+        "assets/official/2018-N2/G-page-05.webp",
+        "assets/official/2018-N2/G-page-06.webp"
+      ],
+      "pages": [
+        5,
+        6
+      ],
+      "questionPage": 6,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2018 官方试题集 N2 第50题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-51",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 9,
+      "number": 51,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-G",
+      "image": "assets/official/2018-N2/G-page-05.webp",
+      "pageImage": "assets/official/2018-N2/G-page-06.webp",
+      "images": [
+        "assets/official/2018-N2/G-page-05.webp",
+        "assets/official/2018-N2/G-page-06.webp"
+      ],
+      "pages": [
+        5,
+        6
+      ],
+      "questionPage": 6,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2018 官方试题集 N2 第51题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-52",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 9,
+      "number": 52,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-G",
+      "image": "assets/official/2018-N2/G-page-05.webp",
+      "pageImage": "assets/official/2018-N2/G-page-06.webp",
+      "images": [
+        "assets/official/2018-N2/G-page-05.webp",
+        "assets/official/2018-N2/G-page-06.webp"
+      ],
+      "pages": [
+        5,
+        6
+      ],
+      "questionPage": 6,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2018 官方试题集 N2 第52题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-53",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 9,
+      "number": 53,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-G",
+      "image": "assets/official/2018-N2/G-page-05.webp",
+      "pageImage": "assets/official/2018-N2/G-page-06.webp",
+      "images": [
+        "assets/official/2018-N2/G-page-05.webp",
+        "assets/official/2018-N2/G-page-06.webp"
+      ],
+      "pages": [
+        5,
+        6
+      ],
+      "questionPage": 6,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2018 官方试题集 N2 第53题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-54",
+      "type": "official",
+      "level": "N2",
+      "section": "grammar",
+      "group": 9,
+      "number": 54,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-G",
+      "image": "assets/official/2018-N2/G-page-05.webp",
+      "pageImage": "assets/official/2018-N2/G-page-06.webp",
+      "images": [
+        "assets/official/2018-N2/G-page-05.webp",
+        "assets/official/2018-N2/G-page-06.webp"
+      ],
+      "pages": [
+        5,
+        6
+      ],
+      "questionPage": 6,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2018 官方试题集 N2 第54题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-55",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 10,
+      "number": 55,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-01.webp",
+      "pageImage": "assets/official/2018-N2/R-page-01.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-01.webp"
+      ],
+      "pages": [
+        1
+      ],
+      "questionPage": 1,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2018 官方试题集 N2 第55题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-56",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 10,
+      "number": 56,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-02.webp",
+      "pageImage": "assets/official/2018-N2/R-page-02.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-02.webp"
+      ],
+      "pages": [
+        2
+      ],
+      "questionPage": 2,
+      "answer": 3,
+      "answerPage": 1,
+      "searchText": "2018 官方试题集 N2 第56题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-57",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 10,
+      "number": 57,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-03.webp",
+      "pageImage": "assets/official/2018-N2/R-page-03.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-03.webp"
+      ],
+      "pages": [
+        3
+      ],
+      "questionPage": 3,
+      "answer": 4,
+      "answerPage": 1,
+      "searchText": "2018 官方试题集 N2 第57题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-58",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 10,
+      "number": 58,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-05.webp",
+      "pageImage": "assets/official/2018-N2/R-page-06.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-05.webp",
+        "assets/official/2018-N2/R-page-06.webp"
+      ],
+      "pages": [
+        5,
+        6
+      ],
+      "questionPage": 6,
+      "answer": 2,
+      "answerPage": 1,
+      "searchText": "2018 官方试题集 N2 第58题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-59",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 10,
+      "number": 59,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-07.webp",
+      "pageImage": "assets/official/2018-N2/R-page-07.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-07.webp"
+      ],
+      "pages": [
+        7
+      ],
+      "questionPage": 7,
+      "answer": 1,
+      "answerPage": 1,
+      "searchText": "2018 官方试题集 N2 第59题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-60",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 60,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-09.webp",
+      "pageImage": "assets/official/2018-N2/R-page-10.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-09.webp",
+        "assets/official/2018-N2/R-page-10.webp"
+      ],
+      "pages": [
+        9,
+        10
+      ],
+      "questionPage": 10,
+      "answer": 1,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第60题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-61",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 61,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-09.webp",
+      "pageImage": "assets/official/2018-N2/R-page-10.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-09.webp",
+        "assets/official/2018-N2/R-page-10.webp"
+      ],
+      "pages": [
+        9,
+        10
+      ],
+      "questionPage": 10,
+      "answer": 3,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第61题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-62",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 62,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-09.webp",
+      "pageImage": "assets/official/2018-N2/R-page-10.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-09.webp",
+        "assets/official/2018-N2/R-page-10.webp"
+      ],
+      "pages": [
+        9,
+        10
+      ],
+      "questionPage": 10,
+      "answer": 1,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第62题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-63",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 63,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-11.webp",
+      "pageImage": "assets/official/2018-N2/R-page-12.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-11.webp",
+        "assets/official/2018-N2/R-page-12.webp"
+      ],
+      "pages": [
+        11,
+        12
+      ],
+      "questionPage": 12,
+      "answer": 4,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第63题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-64",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 64,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-11.webp",
+      "pageImage": "assets/official/2018-N2/R-page-12.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-11.webp",
+        "assets/official/2018-N2/R-page-12.webp"
+      ],
+      "pages": [
+        11,
+        12
+      ],
+      "questionPage": 12,
+      "answer": 1,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第64题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-65",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 65,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-11.webp",
+      "pageImage": "assets/official/2018-N2/R-page-12.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-11.webp",
+        "assets/official/2018-N2/R-page-12.webp"
+      ],
+      "pages": [
+        11,
+        12
+      ],
+      "questionPage": 12,
+      "answer": 2,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第65题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-66",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 66,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-13.webp",
+      "pageImage": "assets/official/2018-N2/R-page-13.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-13.webp",
+        "assets/official/2018-N2/R-page-14.webp"
+      ],
+      "pages": [
+        13,
+        14
+      ],
+      "questionPage": 13,
+      "answer": 2,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第66题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-67",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 67,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-13.webp",
+      "pageImage": "assets/official/2018-N2/R-page-14.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-13.webp",
+        "assets/official/2018-N2/R-page-14.webp"
+      ],
+      "pages": [
+        13,
+        14
+      ],
+      "questionPage": 14,
+      "answer": 3,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第67题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-68",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 11,
+      "number": 68,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-13.webp",
+      "pageImage": "assets/official/2018-N2/R-page-14.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-13.webp",
+        "assets/official/2018-N2/R-page-14.webp"
+      ],
+      "pages": [
+        13,
+        14
+      ],
+      "questionPage": 14,
+      "answer": 1,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第68题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-69",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 12,
+      "number": 69,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-15.webp",
+      "pageImage": "assets/official/2018-N2/R-page-15.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-15.webp",
+        "assets/official/2018-N2/R-page-16.webp"
+      ],
+      "pages": [
+        15,
+        16
+      ],
+      "questionPage": 15,
+      "answer": 4,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第69题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-70",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 12,
+      "number": 70,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-15.webp",
+      "pageImage": "assets/official/2018-N2/R-page-16.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-15.webp",
+        "assets/official/2018-N2/R-page-16.webp"
+      ],
+      "pages": [
+        15,
+        16
+      ],
+      "questionPage": 16,
+      "answer": 3,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第70题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-71",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 13,
+      "number": 71,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-17.webp",
+      "pageImage": "assets/official/2018-N2/R-page-18.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-17.webp",
+        "assets/official/2018-N2/R-page-18.webp"
+      ],
+      "pages": [
+        17,
+        18
+      ],
+      "questionPage": 18,
+      "answer": 2,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第71题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-72",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 13,
+      "number": 72,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-17.webp",
+      "pageImage": "assets/official/2018-N2/R-page-18.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-17.webp",
+        "assets/official/2018-N2/R-page-18.webp"
+      ],
+      "pages": [
+        17,
+        18
+      ],
+      "questionPage": 18,
+      "answer": 4,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第72题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-73",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 13,
+      "number": 73,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-17.webp",
+      "pageImage": "assets/official/2018-N2/R-page-18.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-17.webp",
+        "assets/official/2018-N2/R-page-18.webp"
+      ],
+      "pages": [
+        17,
+        18
+      ],
+      "questionPage": 18,
+      "answer": 3,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第73题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-74",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 14,
+      "number": 74,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-19.webp",
+      "pageImage": "assets/official/2018-N2/R-page-19.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-19.webp",
+        "assets/official/2018-N2/R-page-20.webp"
+      ],
+      "pages": [
+        19,
+        20
+      ],
+      "questionPage": 19,
+      "answer": 4,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第74题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    },
+    {
+      "id": "official-2018-N2-75",
+      "type": "official",
+      "level": "N2",
+      "section": "reading",
+      "group": 14,
+      "number": 75,
+      "exam": "2018",
+      "sourceId": "jlpt-workbook-2018-N2-R",
+      "image": "assets/official/2018-N2/R-page-19.webp",
+      "pageImage": "assets/official/2018-N2/R-page-19.webp",
+      "images": [
+        "assets/official/2018-N2/R-page-19.webp",
+        "assets/official/2018-N2/R-page-20.webp"
+      ],
+      "pages": [
+        19,
+        20
+      ],
+      "questionPage": 19,
+      "answer": 3,
+      "answerPage": 2,
+      "searchText": "2018 官方试题集 N2 第75题",
+      "sourceNote": "官方试题集选编题；页码为对应科目 PDF 页码。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "jlpt-workbook-2012-N2-V",
+      "kind": "official",
+      "level": "N2",
+      "exam": "2012",
+      "title": "2012 官方试题集 N2 · 文字・語彙",
+      "url": "https://www.jlpt.jp/samples/sample2012/pdf/N2V.pdf",
+      "sourcePage": "https://www.jlpt.jp/samples/sampleindex.html",
+      "file": "sources/official/2012-N2-V.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2012/pdf/N2answer.pdf",
+      "answerFile": "sources/official/2012-N2-answer.pdf",
+      "answerImage": "assets/official/2012-N2/answer-page-01.webp",
+      "answerImages": [
+        "assets/official/2012-N2/answer-page-01.webp",
+        "assets/official/2012-N2/answer-page-02.webp"
+      ],
+      "sha256": "7e037f5e7380bc0db46e4b064785da44b81604b77e63c5a2a93b083ee52f3855",
+      "provenance": "官方公开试题集；从历次正式考试选编，相当于一次考试的题量，非指定年月完整场次。",
+      "hasChineseExplanation": false
+    },
+    {
+      "id": "jlpt-workbook-2012-N2-G",
+      "kind": "official",
+      "level": "N2",
+      "exam": "2012",
+      "title": "2012 官方试题集 N2 · 文法",
+      "url": "https://www.jlpt.jp/samples/sample2012/pdf/N2G.pdf",
+      "sourcePage": "https://www.jlpt.jp/samples/sampleindex.html",
+      "file": "sources/official/2012-N2-G.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2012/pdf/N2answer.pdf",
+      "answerFile": "sources/official/2012-N2-answer.pdf",
+      "answerImage": "assets/official/2012-N2/answer-page-01.webp",
+      "answerImages": [
+        "assets/official/2012-N2/answer-page-01.webp",
+        "assets/official/2012-N2/answer-page-02.webp"
+      ],
+      "sha256": "54e8adda3364c0aa3f9c015c932abeb0ad2511d7d98a4d60134befdfb932b213",
+      "provenance": "官方公开试题集；从历次正式考试选编，相当于一次考试的题量，非指定年月完整场次。",
+      "hasChineseExplanation": false
+    },
+    {
+      "id": "jlpt-workbook-2012-N2-R",
+      "kind": "official",
+      "level": "N2",
+      "exam": "2012",
+      "title": "2012 官方试题集 N2 · 読解",
+      "url": "https://www.jlpt.jp/samples/sample2012/pdf/N2R.pdf",
+      "sourcePage": "https://www.jlpt.jp/samples/sampleindex.html",
+      "file": "sources/official/2012-N2-R.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2012/pdf/N2answer.pdf",
+      "answerFile": "sources/official/2012-N2-answer.pdf",
+      "answerImage": "assets/official/2012-N2/answer-page-01.webp",
+      "answerImages": [
+        "assets/official/2012-N2/answer-page-01.webp",
+        "assets/official/2012-N2/answer-page-02.webp"
+      ],
+      "sha256": "c8a56a78a7996c426ffff0cf438162c1af1917a7d6927bce624c69c1e573e9fe",
+      "provenance": "官方公开试题集；从历次正式考试选编，相当于一次考试的题量，非指定年月完整场次。",
+      "hasChineseExplanation": false
+    },
+    {
+      "id": "jlpt-workbook-2018-N2-G",
+      "kind": "official",
+      "level": "N2",
+      "exam": "2018",
+      "title": "2018 官方试题集 N2 · 文法",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N2G.pdf",
+      "sourcePage": "https://www.jlpt.jp/samples/sampleindex.html",
+      "file": "sources/official/2018-N2-G.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2018/pdf/N2answer.pdf",
+      "answerFile": "sources/official/2018-N2-answer.pdf",
+      "answerImage": "assets/official/2018-N2/answer-page-01.webp",
+      "answerImages": [
+        "assets/official/2018-N2/answer-page-01.webp",
+        "assets/official/2018-N2/answer-page-02.webp"
+      ],
+      "sha256": "b48d6e9002c981ca3d4250db4d0961a97d53145402b5eca058c2eb6fe75185e6",
+      "provenance": "官方公开试题集；从历次正式考试选编，相当于一次考试的题量，非指定年月完整场次。",
+      "hasChineseExplanation": false
+    },
+    {
+      "id": "jlpt-workbook-2018-N2-R",
+      "kind": "official",
+      "level": "N2",
+      "exam": "2018",
+      "title": "2018 官方试题集 N2 · 読解",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N2R.pdf",
+      "sourcePage": "https://www.jlpt.jp/samples/sampleindex.html",
+      "file": "sources/official/2018-N2-R.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2018/pdf/N2answer.pdf",
+      "answerFile": "sources/official/2018-N2-answer.pdf",
+      "answerImage": "assets/official/2018-N2/answer-page-01.webp",
+      "answerImages": [
+        "assets/official/2018-N2/answer-page-01.webp",
+        "assets/official/2018-N2/answer-page-02.webp"
+      ],
+      "sha256": "cae736f4da5baa87fedbc9457964d86ca90cbc1e3f6b3f2d7a405e3a33563f23",
+      "provenance": "官方公开试题集；从历次正式考试选编，相当于一次考试的题量，非指定年月完整场次。",
+      "hasChineseExplanation": false
+    },
+    {
+      "id": "jlpt-2018-N2-V",
+      "title": "2018 官方问题集第二集 N2 文字・語彙",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N2V.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2018/pdf/N2answer.pdf",
+      "answerFile": "sources/2018-N2-answer.pdf",
+      "sha256": "c16247e1e6dc3c8b06dc0caf0ea94b7201628c3032c18bb2cc2ac0b1e69f79d6",
+      "file": "sources/official/2018-N2-V.pdf"
+    },
+    {
+      "id": "jlpt-2018-N2-G",
+      "title": "2018 官方问题集第二集 N2 文法（句子与排序）",
+      "url": "https://www.jlpt.jp/samples/sample2018/pdf/N2G.pdf",
+      "answerUrl": "https://www.jlpt.jp/samples/sample2018/pdf/N2answer.pdf",
+      "answerFile": "sources/2018-N2-answer.pdf",
+      "sha256": "b48d6e9002c981ca3d4250db4d0961a97d53145402b5eca058c2eb6fe75185e6",
+      "file": "sources/official/2018-N2-G.pdf"
+    }
+  ],
+  "validation": {
+    "answerCount": 150,
+    "addedQuestionCount": 101,
+    "answerMethods": [
+      "rendered-table-transcription",
+      "pypdf",
+      "pdfplumber-layout"
+    ],
+    "visualPages": "All question and context pages for 101 added questions inspected; blank decorative separators excluded.",
+    "noChineseExplanations": true,
+    "unchangedExistingIds": "official-2018-N2-1 through official-2018-N2-49"
+  }
+}

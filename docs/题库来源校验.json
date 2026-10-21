@@ -1,0 +1,156 @@
+[
+  {
+    "exam": "2010-07",
+    "questions": 71,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 19
+  },
+  {
+    "exam": "2010-12",
+    "questions": 71,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 20
+  },
+  {
+    "exam": "2011-07",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 21
+  },
+  {
+    "exam": "2011-12",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 22
+  },
+  {
+    "exam": "2012-07",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 21
+  },
+  {
+    "exam": "2012-12",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 23
+  },
+  {
+    "exam": "2013-07",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 18
+  },
+  {
+    "exam": "2013-12",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 19
+  },
+  {
+    "exam": "2014-07",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 19
+  },
+  {
+    "exam": "2014-12",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 21
+  },
+  {
+    "exam": "2015-07",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 19
+  },
+  {
+    "exam": "2015-12",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 19
+  },
+  {
+    "exam": "2016-07",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 21
+  },
+  {
+    "exam": "2016-12",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 20
+  },
+  {
+    "exam": "2017-07",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 23
+  },
+  {
+    "exam": "2017-12",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 19
+  },
+  {
+    "exam": "2018-07",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 19
+  },
+  {
+    "exam": "2018-12",
+    "questions": 70,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 21
+  },
+  {
+    "exam": "2019-07",
+    "questions": 69,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 21
+  },
+  {
+    "exam": "2019-12",
+    "questions": 69,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 27
+  },
+  {
+    "exam": "2020-12",
+    "questions": 68,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 18
+  },
+  {
+    "exam": "2021-07",
+    "questions": 69,
+    "originalPdfHash": "match",
+    "answerCrossCheck": "all match",
+    "renderedPages": 20
+  }
+]
